@@ -1,0 +1,7 @@
+{
+	"parent": "item/head/basic",
+	"textures": {
+		"0": "skin/tobyfox",
+		"particle": "block/soul_sand"
+	}
+}

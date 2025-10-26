@@ -1,0 +1,73 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "block",
+            "prefix": "block/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "move",
+            "prefix": "move/"
+        },
+        {
+            "type": "directory",
+            "source": "skin",
+            "prefix": "skin/"
+        },
+        {
+            "type": "directory",
+            "source": "ut",
+            "prefix": "ut/"
+        },
+                {
+            "type": "single",
+            "resource": "minecraft:gb_bone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:gb_eye"
+        },
+        {
+            "type": "directory",
+            "source": "cua:trims",
+            "prefix": "cua:trims/"
+        },
+        {
+            "type": "directory",
+            "source": "cua:move",
+            "prefix": "cua:move/"
+        },
+        {
+            "type": "directory",
+            "source": "cua:skin",
+            "prefix": "cua:skin/"
+        },
+
+
+        
+        {
+            "type": "paletted_permutations",
+            "textures": [
+              "trims/items/leggings_trim",
+              "trims/items/chestplate_trim",
+              "trims/items/helmet_trim",
+              "trims/items/boots_trim"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+              "mettatonneo": "cua:trims/color_palettes/mettatonneo"
+            }
+        }
+    ]
+}

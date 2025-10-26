@@ -1,0 +1,10 @@
+{
+	"parent":"item/cannedsoul1",
+	"textures": {
+		"0": "move/purple_heart",
+		"1": "move/can",
+		"2": "move/canglass2",
+		"3": "move/canglass",
+		"particle": "move/can"
+	}
+}

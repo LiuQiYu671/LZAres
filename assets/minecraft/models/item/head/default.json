@@ -1,0 +1,7 @@
+{
+	"parent": "item/head/basic",
+	"textures": {
+		"0": "misc/mystery_skin",
+		"particle": "block/soul_sand"
+	}
+}

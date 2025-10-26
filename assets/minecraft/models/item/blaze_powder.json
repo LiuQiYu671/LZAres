@@ -1,0 +1,7 @@
+{
+	"parent":"item/glowstone_dust",
+	"textures": {
+		"0": "move/orange_heart",
+		"particle": "move/orange_heart"
+	}
+}

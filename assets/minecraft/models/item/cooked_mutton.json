@@ -1,0 +1,7 @@
+{
+	"parent":"item/trident_throw",
+	"textures": {
+		"0": "move/trident_red",
+		"particle": "move/trident_red"
+	}
+}

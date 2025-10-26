@@ -1,0 +1,49 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/nether_brick"
+  },
+  "overrides": [
+	{"predicate":{"custom_model_data":1},"model":"item/head/sans"},
+	{"predicate":{"custom_model_data":2},"model":"item/head/papyrus"},
+	{"predicate":{"custom_model_data":3},"model":"item/head/undyne"},
+	{"predicate":{"custom_model_data":4},"model":"item/head/frisk"},
+	{"predicate":{"custom_model_data":5},"model":"item/head/flowey"},
+	{"predicate":{"custom_model_data":6},"model":"item/head/mettaton"},
+	{"predicate":{"custom_model_data":7},"model":"item/head/muffet"},
+	{"predicate":{"custom_model_data":8},"model":"item/head/chara"},
+	{"predicate":{"custom_model_data":9},"model":"item/head/toriel"},
+	{"predicate":{"custom_model_data":10},"model":"item/head/asgore"},
+	{"predicate":{"custom_model_data":11},"model":"item/head/asriel"},
+	{"predicate":{"custom_model_data":12},"model":"item/head/tobyfox"},
+	{"predicate":{"custom_model_data":13},"model":"item/head/alphys"},
+	{"predicate":{"custom_model_data":14},"model":"item/head/napstablook"},
+	{"predicate":{"custom_model_data":15},"model":"item/head/maddummy"},
+	{"predicate":{"custom_model_data":16},"model":"item/head/mettatonex"},
+	{"predicate":{"custom_model_data":17},"model":"item/head/sans"},
+	{"predicate":{"custom_model_data":18},"model":"item/head/papyrus"},
+	{"predicate":{"custom_model_data":19},"model":"item/head/undyne"},
+	{"predicate":{"custom_model_data":20},"model":"item/head/frisk"},
+	{"predicate":{"custom_model_data":21},"model":"item/head/flowey"},
+	{"predicate":{"custom_model_data":22},"model":"item/head/mettaton"},
+	{"predicate":{"custom_model_data":23},"model":"item/head/muffet"},
+	{"predicate":{"custom_model_data":24},"model":"item/head/default"},
+	{"predicate":{"custom_model_data":25},"model":"item/head/toriel"},
+	{"predicate":{"custom_model_data":26},"model":"item/head/asgore"},
+	{"predicate":{"custom_model_data":27},"model":"item/head/asriel"},
+	{"predicate":{"custom_model_data":28},"model":"item/head/tobyfox"},
+	{"predicate":{"custom_model_data":29},"model":"item/head/alphys"},
+	{"predicate":{"custom_model_data":30},"model":"item/head/napstablook"},
+	{"predicate":{"custom_model_data":31},"model":"item/head/maddummy"},
+	{"predicate":{"custom_model_data":32},"model":"item/head/mettatonex"},
+	{"predicate":{"custom_model_data":103},"model":"item/head/undyne_armor"},
+
+
+	{"predicate":{"custom_model_data":6710100},"model":"cua:item/head/murder"},
+	{"predicate":{"custom_model_data":6710200},"model":"cua:item/head/mettatonneo"},
+
+
+
+	{"predicate":{"custom_model_data":6719999},"model":"cua:blank"}
+  ]
+}

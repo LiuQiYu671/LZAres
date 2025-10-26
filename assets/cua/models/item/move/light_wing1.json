@@ -1,0 +1,10 @@
+{
+	"parent": "cua:item/move/light_wing",
+	"display": {
+		"head": {
+			"rotation": [0, -180, -45],
+			"translation": [57, 8, -5],
+			"scale": [3, 3, 3]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "cua:trims/models/armor/mettatonneo",
+                "cua:trims/models/armor/mettatonneo_leggings"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "mettatonneo": "cua:trims/color_palettes/mettatonneo"
+            }
+        }
+    ]
+}
