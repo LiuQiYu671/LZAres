@@ -6,6 +6,7 @@
 
 	"hlp.dt_murder_main": "你还在等什么？",
 	"hlp.dt_murder_sub": "赶快杀了他们！",
+	"hlp.sp_mttneo_main": "已经没有回头路了，亲爱的。",
 
 
 	"ttl.dth.curtain_call": "你自爆了！",
@@ -36,6 +37,7 @@
 	
 	"chr.mettatonneo.mpn1": "激光炸弹",
 	"chr.mettatonneo.mpn2": "激光束",
+	"chr.mettatonneo.cdn": "冲击波",
 
 
     "chr.MurderSans.mp": "精准骨头",
@@ -57,7 +59,7 @@
 	"chr.MurderSans.dt1": "召唤一个龙骨，再次使用技能",
 	"chr.MurderSans.dt2": "可以发射出一道伤害更高的能",
 	"chr.MurderSans.dt3": "量炮，需要更长的准备时间。",
-	"chr.MurderSans.dt4": "若处于战斗状态将大幅缩短准",
+	"chr.MurderSans.dt4": "若处于屠杀模式将大幅缩短准",
 	"chr.MurderSans.dt5": "备时间，但伤害会略微下降。",
 	"chr.MurderSans": "Murder Sans",
 	"chr.MurderSans.type": "疯狂的战术家",
@@ -126,7 +128,6 @@
 	"chr.MurderSans.mp_Mad Dummy": "骨头伙伴",
 	"chr.MurderSans.mp1_Mad Dummy": "向前发射小型骨头，数量和魔法消耗",
 	"chr.MurderSans.mp2_Mad Dummy": "随发射次数增多，最多发射六根。",
-
 	"chr.mettatonneo.spn": "谢幕 (%s)",
 	"chr.mettatonneo.spn_1": "已解锁",
 	"chr.mettatonneo.spn_2": "已激活",
@@ -136,28 +137,29 @@
 	"chr.mettatonneo.sp2": "自毁程序，并在三秒后自爆，对周围",
 	"chr.mettatonneo.sp3": "%s造成大量伤害。",
 	"chr.mettatonneo.sp3_1": "所有人",
-	"chr.mettatonneo.sp4": "右键以开关，慎重使用！",
+	"chr.mettatonneo.sp4": "右键以启动，请慎重使用！",
 	"chr.mettatonneo.mp": "激光手炮",
 	"chr.mettatonneo.mp1": "使用装在手部的手炮向前发射炸弹，",
 	"chr.mettatonneo.mp2": "炸弹在命中时造成范围伤害和减速。",
 	"chr.mettatonneo.ch": "华丽登场",
 	"chr.mettatonneo.ch1": "点燃推进器，在接下来的半秒内快速",
 	"chr.mettatonneo.ch2": "向上漂浮，达到最高处后激活背部的",
-	"chr.mettatonneo.ch3": "光翼在空中悬停三秒。再次使用这个",
-	"chr.mettatonneo.ch4": "技能将会快速坠落，并在落地后释放",
-	"chr.mettatonneo.ch5": "冲击波弹开周围的弹幕和敌人。",
-	"chr.mettatonneo.dt": "最后的表演",
+	"chr.mettatonneo.ch3": "光翼在空中悬停三秒。若在悬停期间",
+	"chr.mettatonneo.ch4": "造成伤害，会延长悬停的时间。再次",
+	"chr.mettatonneo.ch5": "使用这个技能将会快速坠落，并且在",
+	"chr.mettatonneo.ch6": "落地后释放冲击波。",
+	"chr.mettatonneo.dt": "最后的演出",
 	"chr.mettatonneo.dt1": "进入过载模式，并获得双倍魔法恢复",
-	"chr.mettatonneo.dt2": "速度增益，每次攻击都会造成25%%的",
+	"chr.mettatonneo.dt2": "速度增益。每次攻击都会造成25%%的",
 	"chr.mettatonneo.dt3": "额外伤害，但是受到所有的伤害提高",
 	"chr.mettatonneo.dt4": "25%%。持续期间受到伤害时，会获得",
 	"chr.mettatonneo.dt5": "三秒钟的50%%移动速度增益。",
 	"chr.mettatonneo": "Mettaton NEO",
 	"chr.mettatonneo.type": "没有观众的明星",
 	"chr.mettatonneo.lore1": "Mettaton是地底世界人气第一的",
-	"chr.mettatonneo.lore2": "电视明星，为了保护他的观众和想要",
-	"chr.mettatonneo.lore3": "保护的人展现出他真正的形态，",
-	"chr.mettatonneo.lore4": "开始了他的最后一场演出。",
+	"chr.mettatonneo.lore2": "电视明星。为了保护他的观众和想要",
+	"chr.mettatonneo.lore3": "保护的人，他展现出最终形态，开始",
+	"chr.mettatonneo.lore4": "了他的最后一场演出。",
 	"mettatonneo.passive": "压轴出场",
 	"chr.mettatonneo.passive1": "当Mettaton受到的攻击会使自身",
 	"chr.mettatonneo.passive2": "生命值下降到最大值的20%%以下",
@@ -168,16 +170,17 @@
 	
 	
 	
-	"adv.chr.mettatonneo.lv5": "演出开始",
-	"adv.chr.mettatonneo.lv20": "表演还在继续",
+	"adv.chr.mettatonneo.lv5": "终演开始",
+	"adv.chr.mettatonneo.lv20": "真正的巨星",
 	"adv.chr.mettatonneo.secret": "明星的落幕",
 	"adv.chr.mettatonneo.secret.lore": "通过“谢幕”来结束一场游戏",
 
 
 
+	"trim_pattern.cua.MurderSans":"Murder Sans 盔甲纹饰",
+	"trim_material.cua.MurderSans":"尘埃",
 	"trim_pattern.cua.mettatonneo":"Mettaton NEO 盔甲纹饰",
 	"trim_material.cua.mettatonneo":"决心",
-
 
 
 	"cua.blank":""
