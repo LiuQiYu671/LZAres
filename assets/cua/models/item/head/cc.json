@@ -1,7 +1,7 @@
 {
 	"parent": "cua:item/head/basic",
 	"textures": {
-		"0": "cua:skin/murder_sans",
+		"0": "cua:skin/cc",
 		"particle": "block/soul_sand"
 	}
 }

@@ -158,10 +158,11 @@
 		{"predicate":{"custom_model_data":6710208},"model":"cua:item/move/switch_on"},
 		{"predicate":{"custom_model_data":6710209},"model":"cua:item/move/switch_lock"},
 
-	
+			{"predicate":{"custom_model_data":12250803},"model":"cua:item/move/cc_foxfire"},
 
 
-		{"predicate":{"custom_model_data":6719999},"model":"cua:blank"}
+
+		{"predicate":{"custom_model_data":12259999},"model":"cua:blank"}
 	],
 	"display": {
 		"ground": {

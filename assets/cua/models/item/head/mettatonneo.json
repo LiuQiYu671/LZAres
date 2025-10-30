@@ -1,5 +1,5 @@
 {
-	"parent": "item/head/basic",
+	"parent": "cua:item/head/basic",
 	"textures": {
 		"0": "cua:skin/mettatonneo",
 		"particle": "block/soul_sand"

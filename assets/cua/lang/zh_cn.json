@@ -34,10 +34,12 @@
     "chr.MurderSans.mpn2_Asgore": "小型骨头",
     "chr.MurderSans.mpn_Asriel": "GB射线",
 	"chr.MurderSans.dtn": "Gaster Blaster",
-	
 	"chr.mettatonneo.mpn1": "激光炸弹",
 	"chr.mettatonneo.mpn2": "激光束",
 	"chr.mettatonneo.cdn": "冲击波",
+	"chr.mettatonneo.spxn": "“谢幕”",
+	"chr.cc.mpn1": "樱瓣",
+	"chr.cc.mpn2": "蝶影",
 
 
     "chr.MurderSans.mp": "精准骨头",
@@ -132,7 +134,6 @@
 	"chr.mettatonneo.spn_1": "已解锁",
 	"chr.mettatonneo.spn_2": "已激活",
 	"chr.mettatonneo.spn_3": "已锁定",
-	"chr.mettatonneo.spxn": "“谢幕”",
 	"chr.mettatonneo.sp1": "打开这个开关后将会启动无法终止的",
 	"chr.mettatonneo.sp2": "自毁程序，并在三秒后自爆，对周围",
 	"chr.mettatonneo.sp3": "%s造成大量伤害。",
@@ -168,13 +169,40 @@
 	"chr.mettatonneo.passive4_1": "终极武器",
 
 	
-	
+	"chr.cc.mw": "漓空",
+	"chr.cc.mw1": "拥有特殊力量的长刀，在造成伤害的时候",
+	"chr.cc.mw2": "根据攻击的方法对目标打上不同的标记。",
+	"chr.cc.ch": "烛光·烁现",
+	"chr.cc.ch1": "强化下一次攻击的效果，减少下一次受到的伤害。",
+	"chr.cc.dt": "狐火·樱灭",
+	"chr.cc.dt1": "消耗所有决心解放自己的力量",
+	"chr.cc.dt2": "并且强化接下来的三次攻击。",
+	"chr.cc.dt3": "强化期间攻击敌人或受到攻击",
+	"chr.cc.dt4": "时会引爆其身上的标记。",
+	"chr.cc": "某猹",
+	"chr.cc.type": "串串",
+	"chr.cc.lore1": "神秘的“旅人”，来自以",
+	"chr.cc.lore2": "『繁生』为诗的世界。",
+	"cc.passive": "诗笺·殊途",
+	"chr.cc.passive1": "某猹在生命值归零时会立刻恢复30%%",
+	"chr.cc.passive2": "的生命值并使该技能失效，随后持续",
+	"chr.cc.passive3": "流失生命值并小幅度提高攻击造成的",
+	"chr.cc.passive4": "伤害。若击杀其他角色，可重新激活",
+	"chr.cc.passive5": "该技能。一条命内该技能发动的次数",
+	"chr.cc.passive6": "越多，恢复的生命值越多，生命值的",
+	"chr.cc.passive7": "流失速度越快。",
+
+
+
 	
 	"adv.chr.mettatonneo.lv5": "终演开始",
 	"adv.chr.mettatonneo.lv20": "真正的巨星",
 	"adv.chr.mettatonneo.secret": "明星的落幕",
 	"adv.chr.mettatonneo.secret.lore": "通过“谢幕”来结束一场游戏",
-
+	"adv.chr.MurderSans.lv5": "肮脏的兄弟杀手",
+	"adv.chr.MurderSans.lv20": "LOVE收割者",
+	"adv.chr.MurderSans.secret": "疯狂屠戮",
+	"adv.chr.MurderSans.secret.lore": "LOVE等级达到19",
 
 
 	"trim_pattern.cua.MurderSans":"Murder Sans 盔甲纹饰",

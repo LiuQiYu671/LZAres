@@ -42,8 +42,9 @@
 	{"predicate":{"custom_model_data":6710100},"model":"cua:item/head/murder"},
 	{"predicate":{"custom_model_data":6710200},"model":"cua:item/head/mettatonneo"},
 
+	{"predicate":{"custom_model_data":12250800},"model":"cua:item/head/cc"},
 
 
-	{"predicate":{"custom_model_data":6719999},"model":"cua:blank"}
+	{"predicate":{"custom_model_data":12259999},"model":"cua:blank"}
   ]
 }
