@@ -1,7 +1,16 @@
 {
 	"dsc.mwcost": "%s 攻击间隔",
+	"dsc.offhand_switch": "按下[%s]键切换技能",
 
 	"wrn.move_lock": "此技能已被锁定！",
+
+
+	"ttl.dth.curtain_call": "你自爆了！",
+	"cht.curtain_call_explode0": "%1$s自爆了。",
+	"cht.curtain_call_explode1": "%1$s在与%2$s战斗时自爆了。",
+	"ttl.dth.cc_petal": "你死了！",
+	"cht.dth.cc_petal0": "%1$s化作樱花随风散去了。",
+	"cht.dth.cc_petal1": "%1$s在与%2$s战斗时化作樱花随风散去了。",
 
 
 	"hlp.dt_murder_main": "你还在等什么？",
@@ -9,16 +18,30 @@
 	"hlp.sp_mttneo_main": "已经没有回头路了，亲爱的。",
 
 
-	"ttl.dth.curtain_call": "你自爆了！",
+	"adv_cua.other": "CuA其他进度",
+	"adv_cua.other.lore": "",
+	"adv_cua.chr": "CuA角色进度",
+	"adv_cua.chr.lore": "",
+	"adv_lza.chr": "LZA角色进度",
+	"adv_lza.chr.lore": "",
+	
 
-
-	"cht.curtain_call_explode0": "%1$s自爆了。",
-	"cht.curtain_call_explode1": "%1$s在与%2$s战斗时自爆了。",
-
-	"adv_unoffical.other": "非官方其他进度",
-	"adv_unoffical.other.lore": "",
-	"adv_unoffical.chr": "非官方角色进度",
-	"adv_unoffical.chr.lore": "",
+	"adv.chr.mettatonneo.lv5": "终演开始",
+	"adv.chr.mettatonneo.lv20": "真正的巨星",
+	"adv.chr.mettatonneo.secret": "明星的落幕",
+	"adv.chr.mettatonneo.secret.lore": "通过“谢幕”来结束一场游戏",
+	"adv.chr.MurderSans.lv5": "肮脏的兄弟杀手",
+	"adv.chr.MurderSans.lv20": "LOVE收割者",
+	"adv.chr.MurderSans.secret": "疯狂屠戮",
+	"adv.chr.MurderSans.secret.lore": "LOVE等级达到19",
+	"adv.chr.cc.lv5": "坠落的猪咪",
+	"adv.chr.cc.lv20": "狂妄之串",
+	"adv.chr.cc.secret": "连环名刀人",
+	"adv.chr.cc.secret.lore": "获得等级五的诗笺·殊途效果",
+	"adv.chr.lorezy.lv5": "循环的囚笼",
+	"adv.chr.lorezy.lv20": "扭转命运",
+	"adv.chr.lorezy.secret": "弑神",
+	"adv.chr.lorezy.secret.lore": "对BOSS造成50%以上的伤害并将其击杀",
 
 
 	"prj.small_bone.main": "小型骨头",
@@ -38,8 +61,10 @@
 	"chr.mettatonneo.mpn2": "激光束",
 	"chr.mettatonneo.cdn": "冲击波",
 	"chr.mettatonneo.spxn": "“谢幕”",
-	"chr.cc.mpn1": "樱瓣",
-	"chr.cc.mpn2": "蝶影",
+	"chr.lorezy.mwn1": "猫爪",
+	"chr.lorezy.mwn2": "影袭",
+	"chr.lorezy.mwn3": "影刃",
+	"chr.cc.mwn": "漓空",
 
 
     "chr.MurderSans.mp": "精准骨头",
@@ -72,10 +97,9 @@
 	"MurderSans.passive": "熟练屠杀",
 	"chr.MurderSans.passive1": "Sans在击杀敌人后会额外获得",
 	"chr.MurderSans.passive2": "LOVE奖励，最多可获得19次。",
-	"chr.MurderSans.passive3": "子弹速度将会根据LOVE等级",
-	"chr.MurderSans.passive4": "提升。游戏开始时获得Papyrus",
-	"chr.MurderSans.passive5": "的幻影。击杀Undertale的怪物",
-	"chr.MurderSans.passive6": "时，将幻影修改为对应的怪物。",
+	"chr.MurderSans.passive3": "游戏开始时获得Papyrus的幻影。",
+	"chr.MurderSans.passive4": "击杀Undertale的怪物时，将",
+	"chr.MurderSans.passive5": "幻影修改为对应的怪物。",
 	"chr.MurderSans.sp": "%s的幻影",
 	"chr.MurderSans.sp_Sans": "Sans",
 	"chr.MurderSans.sp_Papyrus": "Papyrus",
@@ -167,8 +191,6 @@
 	"chr.mettatonneo.passive3": "时，会免疫这次攻击并释放一道",
 	"chr.mettatonneo.passive4": "冲击波，随后解锁%s的开关。",
 	"chr.mettatonneo.passive4_1": "终极武器",
-
-	
 	"chr.cc.mw": "漓空",
 	"chr.cc.mw1": "拥有特殊力量的长刀，在造成伤害的时候",
 	"chr.cc.mw2": "根据攻击的方法对目标打上不同的标记。",
@@ -191,18 +213,35 @@
 	"chr.cc.passive5": "该技能。一条命内该技能发动的次数",
 	"chr.cc.passive6": "越多，恢复的生命值越多，生命值的",
 	"chr.cc.passive7": "流失速度越快。",
+	"chr.lorezy.mw": "猫爪",
+	"chr.lorezy.mw1": "可爱的猫爪，小心被挠伤！",
+	"chr.lorezy.mw2": "若队伍中有星影且存活，攻击",
+	"chr.lorezy.mw3": "效果将会发生变化。",
+	"chr.lorezy.2mw": "影袭",
+	"chr.lorezy.2mw1": "漆黑的法杖，在击中敌人时会造成负面效果。",
+	"chr.lorezy.ch": "重构",
+	"chr.lorezy.ch1": "在接下来三秒内，持续消耗意志力，",
+	"chr.lorezy.ch2": "治疗自身和一定范围内最近的队友。",
+	"chr.lorezy.2ch": "过载",
+	"chr.lorezy.2ch1": "使目标敌人和自身获得负面效果。",
+	"chr.lorezy.dt": "本源",
+	"chr.lorezy.dt1": "恢复少量生命值，使自身被动技能失效，",
+	"chr.lorezy.dt2": "将主要武器和次要技能修改为[影袭]和",
+	"chr.lorezy.dt3": "[过载]直到技能结束。技能持续期间，",
+	"chr.lorezy.dt4": "受到致命伤害时将会恢复部分生命值，",
+	"chr.lorezy.dt5": "否则在技能结束后恢复被动技能。",
+	"chr.lorezy": "星语",
+	"chr.lorezy.type": "某人的灵魂",
+	"chr.lorezy.lore1": "在不知何时何处发生的爆炸中产生的",
+	"chr.lorezy.lore2": "碎片，她行过这宇宙中的每个角落，",
+	"chr.lorezy.lore3": "只为摆脱名为命运的囚笼。",
+	"lorezy.passive": "塑造",
+	"chr.lorezy.passive1": "星语拥有一个可以吸收少量伤害的护盾。",
+	"chr.lorezy.passive2": "若护盾值不满，则在脱离战斗状态三秒后",
+	"chr.lorezy.passive3": "缓慢恢复。若队伍中有零语且存活，提高",
+	"chr.lorezy.passive4": "护盾的恢复速度，且在护盾未完全破损时",
+	"chr.lorezy.passive5": "略微提高魔法回复速度。",
 
-
-
-	
-	"adv.chr.mettatonneo.lv5": "终演开始",
-	"adv.chr.mettatonneo.lv20": "真正的巨星",
-	"adv.chr.mettatonneo.secret": "明星的落幕",
-	"adv.chr.mettatonneo.secret.lore": "通过“谢幕”来结束一场游戏",
-	"adv.chr.MurderSans.lv5": "肮脏的兄弟杀手",
-	"adv.chr.MurderSans.lv20": "LOVE收割者",
-	"adv.chr.MurderSans.secret": "疯狂屠戮",
-	"adv.chr.MurderSans.secret.lore": "LOVE等级达到19",
 
 
 	"trim_pattern.cua.MurderSans":"Murder Sans 盔甲纹饰",

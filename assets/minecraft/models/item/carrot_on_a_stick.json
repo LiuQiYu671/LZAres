@@ -158,7 +158,16 @@
 		{"predicate":{"custom_model_data":6710208},"model":"cua:item/move/switch_on"},
 		{"predicate":{"custom_model_data":6710209},"model":"cua:item/move/switch_lock"},
 
-			{"predicate":{"custom_model_data":12250803},"model":"cua:item/move/cc_foxfire"},
+		{"predicate":{"custom_model_data":12250101},"model":"cua:item/move/cat_paw"},
+		{"predicate":{"custom_model_data":12250102},"model":"cua:item/move/refactor"},
+		{"predicate":{"custom_model_data":12250103},"model":"cua:item/move/lorezy_origin"},
+		{"predicate":{"custom_model_data":12250104},"model":"cua:item/move/shadow_blade"},
+		{"predicate":{"custom_model_data":12250105},"model":"cua:item/move/shadow_blade_buffed"},
+		{"predicate":{"custom_model_data":12250106},"model":"cua:item/move/lorezy_overload"},
+		{"predicate":{"custom_model_data":12250107},"model":"cua:item/move/shadow_slash"},
+		{"predicate":{"custom_model_data":12250801},"model":"cua:item/move/cc_pure"},
+		{"predicate":{"custom_model_data":12250802},"model":"cua:item/move/candle_flash"},
+		{"predicate":{"custom_model_data":12250803},"model":"cua:item/move/cc_foxfire"},
 
 
 
