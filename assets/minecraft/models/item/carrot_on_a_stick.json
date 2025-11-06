@@ -158,6 +158,9 @@
 		{"predicate":{"custom_model_data":6710208},"model":"cua:item/move/switch_on"},
 		{"predicate":{"custom_model_data":6710209},"model":"cua:item/move/switch_lock"},
 
+		{"predicate":{"custom_model_data":12250001},"model":"cua:item/move/chaos_data"},
+		{"predicate":{"custom_model_data":12250002},"model":"cua:item/move/delete_data"},
+		{"predicate":{"custom_model_data":12250003},"model":"cua:item/move/overwrite_data"},
 		{"predicate":{"custom_model_data":12250101},"model":"cua:item/move/cat_paw"},
 		{"predicate":{"custom_model_data":12250102},"model":"cua:item/move/refactor"},
 		{"predicate":{"custom_model_data":12250103},"model":"cua:item/move/lorezy_origin"},
