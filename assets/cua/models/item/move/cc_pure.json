@@ -189,12 +189,12 @@
 		"firstperson_righthand": {
 			"rotation": [-22.5, 0, 0],
 			"translation": [0, 4, 0],
-			"scale": [1, 1.5, 1]
+			"scale": [1, 1.5, 1.25]
 		},
 		"firstperson_lefthand": {
 			"rotation": [-22.5, 0, 0],
 			"translation": [0, 4, 0],
-			"scale": [1, 1.5, 1]
+			"scale": [1, 1.5, 1.25]
 		},
 		"ground": {
 			"translation": [0, 1.75, 0]

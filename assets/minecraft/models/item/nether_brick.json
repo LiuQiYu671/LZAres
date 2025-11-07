@@ -45,6 +45,7 @@
 	{"predicate":{"custom_model_data":12250000},"model":"cua:item/head/none"},
 	{"predicate":{"custom_model_data":12250100},"model":"cua:item/head/lorezy"},
 	{"predicate":{"custom_model_data":12250800},"model":"cua:item/head/cc"},
+	{"predicate":{"custom_model_data":12251400},"model":"cua:item/head/beanghost"},
 
 
 	{"predicate":{"custom_model_data":12259999},"model":"cua:blank"}

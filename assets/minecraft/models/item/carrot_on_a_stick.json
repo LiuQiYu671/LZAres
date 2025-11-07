@@ -171,6 +171,10 @@
 		{"predicate":{"custom_model_data":12250801},"model":"cua:item/move/cc_pure"},
 		{"predicate":{"custom_model_data":12250802},"model":"cua:item/move/candle_flash"},
 		{"predicate":{"custom_model_data":12250803},"model":"cua:item/move/cc_foxfire"},
+		{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/ghost_bullet"},
+		{"predicate":{"custom_model_data":12251402},"model":"cua:item/move/beanghost_powder"},
+		{"predicate":{"custom_model_data":12251403},"model":"cua:item/move/ghost_constrict"},
+		{"predicate":{"custom_model_data":12251404},"model":"cua:item/move/ghost_bullet_big"},
 
 
 
