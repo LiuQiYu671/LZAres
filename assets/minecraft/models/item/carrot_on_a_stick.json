@@ -158,6 +158,8 @@
 		{"predicate":{"custom_model_data":6710208},"model":"cua:item/move/switch_on"},
 		{"predicate":{"custom_model_data":6710209},"model":"cua:item/move/switch_lock"},
 
+		{"predicate":{"custom_model_data":6720101},"model":"cua:item/lobby/salt_fumo"},
+
 		{"predicate":{"custom_model_data":12250001},"model":"cua:item/move/chaos_data"},
 		{"predicate":{"custom_model_data":12250002},"model":"cua:item/move/delete_data"},
 		{"predicate":{"custom_model_data":12250003},"model":"cua:item/move/overwrite_data"},
@@ -173,8 +175,9 @@
 		{"predicate":{"custom_model_data":12250803},"model":"cua:item/move/cc_foxfire"},
 		{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/ghost_bullet"},
 		{"predicate":{"custom_model_data":12251402},"model":"cua:item/move/beanghost_powder"},
-		{"predicate":{"custom_model_data":12251403},"model":"cua:item/move/ghost_constrict"},
+		{"predicate":{"custom_model_data":12251403},"model":"cua:item/move/ghost_restrict"},
 		{"predicate":{"custom_model_data":12251404},"model":"cua:item/move/ghost_bullet_big"},
+		{"predicate":{"custom_model_data":12251405},"model":"cua:item/move/soul_seeker"},
 
 
 

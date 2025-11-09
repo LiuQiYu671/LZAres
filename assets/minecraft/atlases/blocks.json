@@ -40,8 +40,8 @@
         },
         {
             "type": "directory",
-            "source": "cua:trims",
-            "prefix": "cua:trims/"
+            "source": "cua:lobby",
+            "prefix": "cua:lobby/"
         },
         {
             "type": "directory",
@@ -52,6 +52,11 @@
             "type": "directory",
             "source": "cua:skin",
             "prefix": "cua:skin/"
+        },
+        {
+            "type": "directory",
+            "source": "cua:trims",
+            "prefix": "cua:trims/"
         },
 
 

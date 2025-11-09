@@ -1,0 +1,16 @@
+{
+    "entity.salt.ambient":{
+        "replace":true,
+        "subtitle": "entity.salt.ambient",
+        "sounds":[
+            {
+                "name":"cua:salt/meow1",
+                "weight":6
+            },
+            {
+                "name":"cua:salt/meow2",
+                "weight":4
+            }
+        ]
+    }
+}
