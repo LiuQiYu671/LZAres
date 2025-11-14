@@ -1,15 +1,6 @@
 {
     "sources": [
-        {
-            "type": "directory",
-            "source": "block",
-            "prefix": "block/"
-        },
-        {
-            "type": "directory",
-            "source": "item",
-            "prefix": "item/"
-        },
+
         {
             "type": "directory",
             "source": "misc",
@@ -30,7 +21,7 @@
             "source": "ut",
             "prefix": "ut/"
         },
-                {
+        {
             "type": "single",
             "resource": "minecraft:gb_bone"
         },
@@ -40,25 +31,14 @@
         },
         {
             "type": "directory",
-            "source": "cua:lobby",
-            "prefix": "cua:lobby/"
+            "source": "lobby",
+            "prefix": "lobby/"
         },
         {
             "type": "directory",
-            "source": "cua:move",
-            "prefix": "cua:move/"
+            "source": "empty",
+            "prefix": "empty/"
         },
-        {
-            "type": "directory",
-            "source": "cua:skin",
-            "prefix": "cua:skin/"
-        },
-        {
-            "type": "directory",
-            "source": "cua:trims",
-            "prefix": "cua:trims/"
-        },
-
 
         
         {

@@ -373,6 +373,17 @@
 		},
 		"thirdperson_lefthand": {
 			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [30, -45, 0],
+			"translation": [0.25, 1, 0],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [

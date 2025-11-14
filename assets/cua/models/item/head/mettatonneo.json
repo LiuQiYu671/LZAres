@@ -2,6 +2,6 @@
 	"parent": "cua:item/head/basic",
 	"textures": {
 		"0": "cua:skin/mettatonneo",
-		"particle": "block/soul_sand"
+		"particle": "minecraft:block/soul_sand"
 	}
 }

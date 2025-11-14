@@ -153,10 +153,16 @@
 		{"predicate":{"custom_model_data":6710203},"model":"cua:item/move/light_wing_item"},
 		{"predicate":{"custom_model_data":6710204},"model":"cua:item/move/light_wing"},
 		{"predicate":{"custom_model_data":6710205},"model":"cua:item/move/light_wing1"},
-		{"predicate":{"custom_model_data":6710206},"model":"cua:item/move/last_show"},
 		{"predicate":{"custom_model_data":6710207},"model":"cua:item/move/switch_off"},
 		{"predicate":{"custom_model_data":6710208},"model":"cua:item/move/switch_on"},
-		{"predicate":{"custom_model_data":6710209},"model":"cua:item/move/switch_lock"},
+		{"predicate":{"custom_model_data":6710301},"model":"cua:item/move/knife_killer"},
+		{"predicate":{"custom_model_data":6710302},"model":"cua:item/move/dodge_back"},
+		{"predicate":{"custom_model_data":6710303},"model":"cua:item/move/determination_filled"},
+		{"predicate":{"custom_model_data":6710304},"model":"cua:item/move/killer_slash"},
+		{"predicate":{"custom_model_data":6710305},"model":"cua:item/move/bone_killer"},
+		{"predicate":{"custom_model_data":6710306},"model":"cua:item/move/real_knife_killer"},
+		{"predicate":{"custom_model_data":6710307},"model":"cua:item/move/gb_killer"},
+		{"predicate":{"custom_model_data":6710308},"model":"cua:item/move/gb_killer_open"},
 
 		{"predicate":{"custom_model_data":6720101},"model":"cua:item/lobby/salt_fumo"},
 

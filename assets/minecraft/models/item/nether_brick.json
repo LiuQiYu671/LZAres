@@ -39,8 +39,10 @@
 	{"predicate":{"custom_model_data":103},"model":"item/head/undyne_armor"},
 
 
-	{"predicate":{"custom_model_data":6710100},"model":"cua:item/head/murder"},
+	{"predicate":{"custom_model_data":6710100},"model":"cua:item/head/murder_sans"},
 	{"predicate":{"custom_model_data":6710200},"model":"cua:item/head/mettatonneo"},
+	{"predicate":{"custom_model_data":6710300},"model":"cua:item/head/killer_sans"},
+	{"predicate":{"custom_model_data":6710301},"model":"cua:item/head/killer_sans_eye"},
 
 	{"predicate":{"custom_model_data":12250000},"model":"cua:item/head/none"},
 	{"predicate":{"custom_model_data":12250100},"model":"cua:item/head/lorezy"},
