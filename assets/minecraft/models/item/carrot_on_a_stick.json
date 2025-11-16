@@ -165,6 +165,7 @@
 		{"predicate":{"custom_model_data":6710308},"model":"cua:item/move/gb_killer_open"},
 
 		{"predicate":{"custom_model_data":6720101},"model":"cua:item/lobby/salt_fumo"},
+		{"predicate":{"custom_model_data":6720200},"model":"cua:item/lobby/undertale_ost"},
 
 		{"predicate":{"custom_model_data":12250001},"model":"cua:item/move/chaos_data"},
 		{"predicate":{"custom_model_data":12250002},"model":"cua:item/move/delete_data"},

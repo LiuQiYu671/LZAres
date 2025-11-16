@@ -9,8 +9,8 @@
 
 
 	"ttl.dth.curtain_call": "你自爆了！",
-	"cht.curtain_call_explode0": "%1$s自爆了。",
-	"cht.curtain_call_explode1": "%1$s在与%2$s战斗时自爆了。",
+	"cht.dth.curtain_call_explode0": "%1$s自爆了。",
+	"cht.dth.curtain_call_explode1": "%1$s在与%2$s战斗时自爆了。",
 	"ttl.dth.cc_petal": "你死了！",
 	"cht.dth.cc_petal0": "%1$s化作樱花随风散去了。",
 	"cht.dth.cc_petal1": "%1$s在与%2$s战斗时化作樱花随风散去了。",
@@ -71,6 +71,7 @@
 	"chr.KillerSans.mwn2": "强力斩击",
 	"chr.KillerSans.mpn": "斩击",
 	"chr.KillerSans.cdn": "锋利骨刺",
+	"chr.KillerSans.spn": "Gaster Blaster",
 	"chr.lorezy.mwn1": "猫爪",
 	"chr.lorezy.mwn2": "影袭",
 	"chr.lorezy.mwn3": "影刃",
@@ -208,7 +209,7 @@
 	"chr.KillerSans.mw2": "远程攻击。在决心满溢状态下，可以消耗",
 	"chr.KillerSans.mw3": "至多九层杀气直接发动强力斩击。",
 	"chr.KillerSans.ch": "闪避反击",
-	"chr.KillerSans.ch1": "在短时间内大幅度提高自身移动速度，",
+	"chr.KillerSans.ch1": "在短时间内小幅度提高自身移动速度，",
 	"chr.KillerSans.ch2": "期间受到攻击时闪避此攻击，并瞬移至",
 	"chr.KillerSans.ch3": "攻击者背后。随后在原先位置召唤锋利",
 	"chr.KillerSans.ch4": "的骨刺向攻击者发射。",
@@ -321,7 +322,7 @@
 	"trim_pattern.cua.mettatonneo": "Mettaton NEO 盔甲纹饰",
 	"trim_material.cua.mettatonneo": "决心",
 	"trim_pattern.cua.KillerSans": "Killer Sans 盔甲纹饰",
-	"trim_material.cua.KillerSans": "决心",
+	"trim_material.cua.KillerSans": "液态决心",
 
 	"dsc.lobbyitem": "大厅物品",
 	"dsc.offhand_view": "按下[%s]检视物品",
@@ -331,6 +332,25 @@
 
 
 	"entity.salt.ambient":"ソルト：喵~",
+
+	"music_disc.undertale_ost.megalovania":"MEGALOVANIA~♫",
+	"music_disc.undertale_ost.bonetrousle":"Bonetrousle~♫",
+	"music_disc.undertale_ost.battle_against_a_true_hero":"Battle Against a True Hero~♫",
+	"music_disc.undertale_ost.here_we_are":"Here We Are~♫",
+	"music_disc.undertale_ost.power_of_neo":"Undertale OST：Power of -NEO-",
+	"music_disc.undertale_ost.asgore":"ASGORE~♫",
+	"music_disc.undertale_ost.heartache":"Heartache~♫",
+	"music_disc.undertale_ost.undertale":"Undertale~♫",
+
+	"disc_description.undertale_ost":"Undertale OST",
+	"disc_description.undertale_ost.megalovania":"Toby Fox - MEGALOVANIA",
+	"disc_description.undertale_ost.bonetrousle":"Toby Fox - Bonetrousle",
+	"disc_description.undertale_ost.battle_against_a_true_hero":"Toby Fox - Battle Against a True Hero",
+	"disc_description.undertale_ost.here_we_are":"Toby Fox - Here We Are",
+	"disc_description.undertale_ost.power_of_neo":"Toby Fox - Power of -NEO-",
+	"disc_description.undertale_ost.asgore":"Toby Fox - ASGORE",
+	"disc_description.undertale_ost.heartache":"Toby Fox - Heartache",
+	"disc_description.undertale_ost.undertale":"Toby Fox - Undertale",
 
 	"cua.blank": ""
 }

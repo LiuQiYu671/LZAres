@@ -14,6 +14,12 @@
       }
     },
     {
+      "model": "cua:item/leather_helmet_killersans_trim",
+      "predicate": {
+        "trim_type": 0.16
+      }
+    },
+    {
       "model": "minecraft:item/leather_helmet_iron_trim",
       "predicate": {
         "trim_type": 0.2

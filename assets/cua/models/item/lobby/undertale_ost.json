@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+	"gui_light": "front",
+	"textures": {
+		"layer0": "cua:lobby/undertale_ost"
+	},
+    "display": {
+		"firstperson_lefthand": {
+			"translation": [-9.06, 8.25, -4],
+			"scale": [0.5, 0.5, 0.5]
+		}
+    }
+}

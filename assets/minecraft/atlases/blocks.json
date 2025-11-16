@@ -51,7 +51,8 @@
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
-              "mettatonneo": "cua:trims/color_palettes/mettatonneo"
+              "mettatonneo": "cua:trims/color_palettes/mettatonneo",
+              "killersans": "cua:trims/color_palettes/killersans"
             }
         }
     ]

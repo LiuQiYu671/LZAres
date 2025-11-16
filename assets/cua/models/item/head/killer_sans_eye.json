@@ -4,6 +4,6 @@
 		"0": "cua:skin/killer_sans",
 		"1": "cua:skin/killer_sans_extra",
 		"2": "cua:skin/killer_sans_eye",
-		"particle": "cua:block/soul_sand"
+		"particle": "minecraft:block/soul_sand"
 	}
 }

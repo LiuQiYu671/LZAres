@@ -10,6 +10,17 @@
             "permutations": {
                 "mettatonneo": "cua:trims/color_palettes/mettatonneo"
             }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "cua:trims/models/armor/killersans",
+                "cua:trims/models/armor/killersans_leggings"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "killersans": "cua:trims/color_palettes/killersans"
+            }
         }
     ]
 }

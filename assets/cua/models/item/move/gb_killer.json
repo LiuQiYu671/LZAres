@@ -8,13 +8,16 @@
 	},
 	"elements": [
 		{
-			"from": [3, -1, 6],
-			"to": [13, 2, 12],
+			"from": [4.5, 3.5, 6],
+			"to": [11.5, 5, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 6, 9.5]},
 			"faces": {
-				"north": {"uv": [8, 13, 0, 16], "texture": "#0"},
-				"east": {"uv": [7, 7, 13, 10], "texture": "#0"},
-				"west": {"uv": [7, 7, 13, 10], "texture": "#0"},
-				"up": {"uv": [0, 6, 8, 0], "texture": "#0"}
+				"north": {"uv": [5, 8, 12, 9], "texture": "#0"},
+				"east": {"uv": [5, 8, 7, 9], "texture": "#0"},
+				"south": {"uv": [5, 8, 12, 9], "texture": "#0"},
+				"west": {"uv": [5, 8, 7, 9], "texture": "#0"},
+				"up": {"uv": [0, 5, 7, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 5, 7, 7], "rotation": 270, "texture": "#0"}
 			}
 		},
 		{
@@ -27,6 +30,16 @@
 				"south": {"uv": [0, 0, 7, 3], "texture": "#0"},
 				"west": {"uv": [6, 7, 13, 10], "texture": "#0"},
 				"up": {"uv": [9, 9, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [3, -1, 6],
+			"to": [13, 2, 12],
+			"faces": {
+				"north": {"uv": [8, 13, 0, 16], "texture": "#0"},
+				"east": {"uv": [7, 7, 13, 10], "texture": "#0"},
+				"west": {"uv": [7, 7, 13, 10], "texture": "#0"},
+				"up": {"uv": [0, 6, 8, 0], "texture": "#0"}
 			}
 		},
 		{
@@ -166,19 +179,6 @@
 			}
 		},
 		{
-			"from": [4.5, 4, 6],
-			"to": [11.5, 5, 8],
-			"rotation": {"angle": -45, "axis": "y", "origin": [8, 6, 9.5]},
-			"faces": {
-				"north": {"uv": [5, 8, 12, 9], "texture": "#0"},
-				"east": {"uv": [5, 8, 7, 9], "texture": "#0"},
-				"south": {"uv": [5, 8, 12, 9], "texture": "#0"},
-				"west": {"uv": [5, 8, 7, 9], "texture": "#0"},
-				"up": {"uv": [0, 5, 7, 7], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [0, 5, 7, 7], "rotation": 270, "texture": "#0"}
-			}
-		},
-		{
 			"from": [6.5, 2, 5],
 			"to": [9.5, 6, 18],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 3, 7]},
@@ -305,6 +305,12 @@
 	},
 	"groups": [
 		{
+			"name": "group",
+			"origin": [8, 6, 9.5],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
 			"name": "gbnew",
 			"origin": [8, 8, 8],
 			"color": 0,
@@ -314,8 +320,6 @@
 					"origin": [8, 8, 8],
 					"color": 0,
 					"children": [
-						0,
-						1,
 						2,
 						3,
 						4,
