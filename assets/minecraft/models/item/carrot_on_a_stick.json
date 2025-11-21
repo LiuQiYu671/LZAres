@@ -163,6 +163,9 @@
 		{"predicate":{"custom_model_data":6710306},"model":"cua:item/move/real_knife_killer"},
 		{"predicate":{"custom_model_data":6710307},"model":"cua:item/move/gb_killer"},
 		{"predicate":{"custom_model_data":6710308},"model":"cua:item/move/gb_killer_open"},
+		{"predicate":{"custom_model_data":6710401},"model":"cua:item/move/cleaver_horror"},
+		{"predicate":{"custom_model_data":6710402},"model":"cua:item/move/bone_horror"},
+		{"predicate":{"custom_model_data":6710403},"model":"cua:item/move/bone_break"},
 
 		{"predicate":{"custom_model_data":6720101},"model":"cua:item/lobby/salt_fumo"},
 		{"predicate":{"custom_model_data":6720200},"model":"cua:item/lobby/undertale_ost"},
@@ -177,18 +180,26 @@
 		{"predicate":{"custom_model_data":12250105},"model":"cua:item/move/shadow_blade_buffed"},
 		{"predicate":{"custom_model_data":12250106},"model":"cua:item/move/lorezy_overload"},
 		{"predicate":{"custom_model_data":12250107},"model":"cua:item/move/shadow_slash"},
+		{"predicate":{"custom_model_data":12250108},"model":"cua:item/skin/lorezy/prime"},
+		{"predicate":{"custom_model_data":12250109},"model":"cua:item/skin/lorezy/fes"},
+		{"predicate":{"custom_model_data":12250110},"model":"cua:item/skin/lorezy/prism"},
 		{"predicate":{"custom_model_data":12250801},"model":"cua:item/move/cc_pure"},
 		{"predicate":{"custom_model_data":12250802},"model":"cua:item/move/candle_flash"},
 		{"predicate":{"custom_model_data":12250803},"model":"cua:item/move/cc_foxfire"},
+		{"predicate":{"custom_model_data":12250901},"model":"cua:item/move/fireball_loris"},
+		{"predicate":{"custom_model_data":12250902},"model":"cua:item/move/bottled_star"},
+		{"predicate":{"custom_model_data":12250903},"model":"cua:item/move/loris_dream"},
 		{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/ghost_bullet"},
 		{"predicate":{"custom_model_data":12251402},"model":"cua:item/move/beanghost_powder"},
 		{"predicate":{"custom_model_data":12251403},"model":"cua:item/move/ghost_restrict"},
 		{"predicate":{"custom_model_data":12251404},"model":"cua:item/move/ghost_bullet_big"},
 		{"predicate":{"custom_model_data":12251405},"model":"cua:item/move/soul_seeker"},
 
+		
+		{"predicate":{"custom_model_data":12260201},"model":"cua:item/move/shadow_blade"},
 
 
-		{"predicate":{"custom_model_data":12259999},"model":"cua:blank"}
+		{"predicate":{"custom_model_data":12269999},"model":"cua:blank"}
 	],
 	"display": {
 		"ground": {

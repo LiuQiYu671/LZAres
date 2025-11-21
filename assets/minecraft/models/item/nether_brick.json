@@ -43,6 +43,7 @@
 	{"predicate":{"custom_model_data":6710200},"model":"cua:item/head/mettatonneo"},
 	{"predicate":{"custom_model_data":6710300},"model":"cua:item/head/killer_sans"},
 	{"predicate":{"custom_model_data":6710301},"model":"cua:item/head/killer_sans_eye"},
+	{"predicate":{"custom_model_data":6710400},"model":"cua:item/head/horror_sans"},
 
 	{"predicate":{"custom_model_data":12250000},"model":"cua:item/head/none"},
 	{"predicate":{"custom_model_data":12250100},"model":"cua:item/head/lorezy"},
@@ -51,6 +52,10 @@
 	{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/beanghost_powder"},
 
 
-	{"predicate":{"custom_model_data":12259999},"model":"cua:blank"}
+	{"predicate":{"custom_model_data":12260100},"model":"cua:item/head/lorezy_zero"},
+	{"predicate":{"custom_model_data":12260200},"model":"cua:item/head/lorezy_shadow"},
+	{"predicate":{"custom_model_data":12260201},"model":"cua:item/head/skin/lorezy_shadow/death_night"},
+
+	{"predicate":{"custom_model_data":12269999},"model":"cua:blank"}
   ]
 }
