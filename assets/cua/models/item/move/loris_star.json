@@ -1,0 +1,20 @@
+{
+	"parent": "cua:item/move/loris_dream",
+	"textures": {
+		"0": "cua:move/loris_knife",
+		"1": "cua:move/loris_knife_extra",
+		"particle": "cua:move/loris_knife"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 8.5, 2.5],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 8.5, 2.5],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

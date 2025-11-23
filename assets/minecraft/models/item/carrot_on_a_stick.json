@@ -189,6 +189,7 @@
 		{"predicate":{"custom_model_data":12250901},"model":"cua:item/move/fireball_loris"},
 		{"predicate":{"custom_model_data":12250902},"model":"cua:item/move/bottled_star"},
 		{"predicate":{"custom_model_data":12250903},"model":"cua:item/move/loris_dream"},
+		{"predicate":{"custom_model_data":12250904},"model":"cua:item/move/loris_star"},
 		{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/ghost_bullet"},
 		{"predicate":{"custom_model_data":12251402},"model":"cua:item/move/beanghost_powder"},
 		{"predicate":{"custom_model_data":12251403},"model":"cua:item/move/ghost_restrict"},
