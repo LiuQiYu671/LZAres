@@ -198,6 +198,8 @@
 
 		
 		{"predicate":{"custom_model_data":12260201},"model":"cua:item/move/shadow_blade"},
+		{"predicate":{"custom_model_data":12260202},"model":"cua:item/move/shadow_dodge"},
+		{"predicate":{"custom_model_data":12260203},"model":"cua:item/move/shadow_slash"},
 
 
 		{"predicate":{"custom_model_data":12269999},"model":"cua:blank"}

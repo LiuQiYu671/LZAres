@@ -69,6 +69,20 @@
 		{"predicate": {"custom_model_data": 1}, "model": "item/nether_wart1"}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 2, -1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 2, -1]
+		},
 		"head": {
 			"translation": [0, -42.5, 0],
 			"scale": [2, 0.5, 2]
