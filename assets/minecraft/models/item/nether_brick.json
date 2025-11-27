@@ -44,6 +44,7 @@
 	{"predicate":{"custom_model_data":6710300},"model":"cua:item/head/killer_sans"},
 	{"predicate":{"custom_model_data":6710301},"model":"cua:item/head/killer_sans_eye"},
 	{"predicate":{"custom_model_data":6710400},"model":"cua:item/head/horror_sans"},
+	{"predicate":{"custom_model_data":6710500},"model":"cua:item/head/master_carrot"},
 
 	{"predicate":{"custom_model_data":12250000},"model":"cua:item/head/none"},
 	{"predicate":{"custom_model_data":12250100},"model":"cua:item/head/lorezy"},

@@ -13,58 +13,7 @@
             }
         ]
     },
-    "music_disc.undertale_ost.megalovania":{
-        "replace":true,
-        "subtitle": "music_disc.undertale_ost.megalovania",
-        "sounds":[
-            {
-                "name":"cua:disc/megalovania",
-                "stream":true
-            }
-        ]
-    },
-    "music_disc.undertale_ost.bonetrousle":{
-        "replace":true,
-        "subtitle": "music_disc.undertale_ost.bonetrousle",
-        "sounds":[
-            {
-                "name":"cua:disc/bonetrousle",
-                "stream":true
-            }
-        ]
-    },
-    "music_disc.undertale_ost.battle_against_a_true_hero":{
-        "replace":true,
-        "subtitle": "music_disc.undertale_ost.battle_against_a_true_hero",
-        "sounds":[
-            {
-                "name":"cua:disc/battle_against_a_true_hero",
-                "stream":true
-            }
-        ]
-    },
-    "music_disc.undertale_ost.here_we_are":{
-        "replace":true,
-        "subtitle": "music_disc.undertale_ost.here_we_are",
-        "sounds":[
-            {
-                "name":"cua:disc/here_we_are",
-                "stream":true
-            }
-        ]
-    },
-    "music_disc.undertale_ost.power_of_neo":{
-        "replace":true,
-        "subtitle": "music_disc.undertale_ost.power_of_neo",
-        "sounds":[
-            {
-                "name":"cua:disc/power_of_neo",
-                "stream":true
-            }
-        ]
-    },
     "music_disc.undertale_ost.asgore":{
-        "replace":true,
         "subtitle": "music_disc.undertale_ost.asgore",
         "sounds":[
             {
@@ -73,8 +22,51 @@
             }
         ]
     },
+    "music_disc.undertale_ost.battle_against_a_true_hero":{
+        "subtitle": "music_disc.undertale_ost.battle_against_a_true_hero",
+        "sounds":[
+            {
+                "name":"cua:disc/battle_against_a_true_hero",
+                "stream":true
+            }
+        ]
+    },
+    "music_disc.undertale_ost.bonetrousle":{
+        "subtitle": "music_disc.undertale_ost.bonetrousle",
+        "sounds":[
+            {
+                "name":"cua:disc/bonetrousle",
+                "stream":true
+            }
+        ]
+    },
+    "music_disc.undertale_ost.death_by_glamour":{
+        "subtitle": "music_disc.undertale_ost.death_by_glamour",
+        "sounds":[
+            {
+                "name":"cua:disc/death_by_glamour",
+                "stream":true
+            }
+        ]
+    },
+    "music_disc.undertale_ost.default":{
+        "subtitle": "music_disc.undertale_ost.default",
+        "sounds":[
+            {
+                "name":"cua:disc/default"
+            }
+        ]
+    },
+    "music_disc.undertale_ost.dummy":{
+        "subtitle": "music_disc.undertale_ost.dummy",
+        "sounds":[
+            {
+                "name":"cua:disc/dummy",
+                "stream":true
+            }
+        ]
+    },
     "music_disc.undertale_ost.heartache":{
-        "replace":true,
         "subtitle": "music_disc.undertale_ost.heartache",
         "sounds":[
             {
@@ -83,8 +75,52 @@
             }
         ]
     },
+    "music_disc.undertale_ost.here_we_are":{
+        "subtitle": "music_disc.undertale_ost.here_we_are",
+        "sounds":[
+            {
+                "name":"cua:disc/here_we_are",
+                "stream":true
+            }
+        ]
+    },
+    "music_disc.undertale_ost.hopes_and_dreams":{
+        "subtitle": "music_disc.undertale_ost.hopes_and_dreams",
+        "sounds":[
+            {
+                "name":"cua:disc/hopes_and_dreams",
+                "stream":true
+            }
+        ]
+    },
+    "music_disc.undertale_ost.megalovania":{
+        "subtitle": "music_disc.undertale_ost.megalovania",
+        "sounds":[
+            {
+                "name":"cua:disc/megalovania",
+                "stream":true
+            }
+        ]
+    },
+    "music_disc.undertale_ost.power_of_neo":{
+        "subtitle": "music_disc.undertale_ost.power_of_neo",
+        "sounds":[
+            {
+                "name":"cua:disc/power_of_neo",
+                "stream":true
+            }
+        ]
+    },
+    "music_disc.undertale_ost.spider_dance":{
+        "subtitle": "music_disc.undertale_ost.spider_dance",
+        "sounds":[
+            {
+                "name":"cua:disc/spider_dance",
+                "stream":true
+            }
+        ]
+    },
     "music_disc.undertale_ost.undertale":{
-        "replace":true,
         "subtitle": "music_disc.undertale_ost.undertale",
         "sounds":[
             {
@@ -93,7 +129,15 @@
             }
         ]
     },
-
+    "music_disc.undertale_ost.your_best_nightmare":{
+        "subtitle": "music_disc.undertale_ost.your_best_nightmare",
+        "sounds":[
+            {
+                "name":"cua:disc/your_best_nightmare",
+                "stream":true
+            }
+        ]
+    },
 
 
 
