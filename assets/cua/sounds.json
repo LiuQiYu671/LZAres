@@ -1,4 +1,17 @@
 {
+    "move.lxy_lfs.use":{
+        "subtitle": "sound.move.use",
+        "sounds":[
+            {
+                "name":"cua:move/lxy_lfs/use"
+            }
+        ]
+    },
+    
+    
+    
+    
+    
     "entity.salt.ambient":{
         "replace":true,
         "subtitle": "entity.salt.ambient",

@@ -166,6 +166,7 @@
 		{"predicate":{"custom_model_data":6710401},"model":"cua:item/move/cleaver_horror"},
 		{"predicate":{"custom_model_data":6710402},"model":"cua:item/move/bone_horror"},
 		{"predicate":{"custom_model_data":6710403},"model":"cua:item/move/bone_break"},
+		{"predicate":{"custom_model_data":6710502},"model":"cua:item/move/command_target"},
 
 		{"predicate":{"custom_model_data":6720101},"model":"cua:item/lobby/salt_fumo"},
 		{"predicate":{"custom_model_data":6720200},"model":"cua:item/lobby/undertale_ost"},
