@@ -1,6 +1,4 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "cua:move/bone_break",
 		"particle": "cua:move/bone_break"

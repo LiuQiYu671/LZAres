@@ -1,0 +1,15 @@
+{
+	"parent": "cua:item/move/pistol_phoenix_empty",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-9, 10, -1],
+			"scale": [1, 1, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-9, 10, -1],
+			"scale": [1, 1, 0.8]
+		}
+	}
+}
