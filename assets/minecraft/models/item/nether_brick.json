@@ -48,7 +48,7 @@
 
 	{"predicate":{"custom_model_data":12250000},"model":"cua:item/head/none"},
 	{"predicate":{"custom_model_data":12250100},"model":"cua:item/head/lorezy"},
-	{"predicate":{"custom_model_data":12250300},"model":"cua:item/head/basic"},
+	{"predicate":{"custom_model_data":12250300},"model":"cua:item/head/lxy"},
 	{"predicate":{"custom_model_data":12250301},"model":"cua:item/head/lxy_moon_light"},
 	{"predicate":{"custom_model_data":12250700},"model":"cua:item/head/opponent"},
 	{"predicate":{"custom_model_data":12250800},"model":"cua:item/head/cc"},

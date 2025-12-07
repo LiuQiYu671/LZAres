@@ -1,8 +1,6 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "cua:skin/default",
+		"0": "cua:skin/lxy",
 		"1": "cua:move/lxy_moon_light",
 		"particle": "cua:move/lxy_moon_light"
 	},
