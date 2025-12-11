@@ -1,0 +1,7 @@
+{
+	"parent": "cua:item/head/basic",
+	"textures": {
+		"0": "cua:skin/yxy",
+		"particle": "minecraft:block/soul_sand"
+	}
+}
