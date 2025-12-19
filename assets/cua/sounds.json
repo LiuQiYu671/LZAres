@@ -7,7 +7,22 @@
             }
         ]
     },
-    
+    "move.not_lngs.active":{
+        "subtitle": "sound.counter.active",
+        "sounds":[
+            {
+                "name":"cua:move/not_lngs/active"
+            }
+        ]
+    },
+    "move.not_lngs.trigger":{
+        "subtitle": "sound.counter.trigger",
+        "sounds":[
+            {
+                "name":"cua:move/not_lngs/trigger"
+            }
+        ]
+    },
     
     
     

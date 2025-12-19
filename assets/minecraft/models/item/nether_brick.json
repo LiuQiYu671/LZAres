@@ -54,6 +54,7 @@
 	{"predicate":{"custom_model_data":12250700},"model":"cua:item/head/opponent"},
 	{"predicate":{"custom_model_data":12250800},"model":"cua:item/head/cc"},
 	{"predicate":{"custom_model_data":12250900},"model":"cua:item/head/loris"},
+	{"predicate":{"custom_model_data":12251300},"model":"cua:item/head/not_lngs"},
 	{"predicate":{"custom_model_data":12251400},"model":"cua:item/head/beanghost"},
 	{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/beanghost_powder"},
 
