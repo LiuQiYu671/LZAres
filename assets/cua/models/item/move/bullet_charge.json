@@ -1,0 +1,7 @@
+{
+	"parent": "cua:item/move/simulation_bullet",
+	"textures": {
+		"0": "cua:move/bullet_charge",
+		"particle": "cua:move/bullet_charge"
+	}
+}

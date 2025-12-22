@@ -57,6 +57,7 @@
 	{"predicate":{"custom_model_data":12251300},"model":"cua:item/head/not_lngs"},
 	{"predicate":{"custom_model_data":12251400},"model":"cua:item/head/beanghost"},
 	{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/beanghost_powder"},
+	{"predicate":{"custom_model_data":12251500},"model":"cua:item/head/galaxy"},
 
 
 	{"predicate":{"custom_model_data":12260100},"model":"cua:item/head/lorezy_zero"},

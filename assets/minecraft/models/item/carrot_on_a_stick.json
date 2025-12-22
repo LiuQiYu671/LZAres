@@ -229,8 +229,8 @@
 		{"predicate":{"custom_model_data":12251404},"model":"cua:item/move/ghost_bullet_big"},
 		{"predicate":{"custom_model_data":12251405},"model":"cua:item/move/soul_seeker"},
 		{"predicate":{"custom_model_data":12251501},"model":"cua:item/move/simulation_bullet"},
-		{"predicate":{"custom_model_data":12251502},"model":"cua:item/move/position_exchange"},
-		{"predicate":{"custom_model_data":12251503},"model":"cua:item/move/energy_transfer"},
+		{"predicate":{"custom_model_data":12251502},"model":"cua:item/move/bullet_charge"},
+		{"predicate":{"custom_model_data":12251503},"model":"cua:item/move/gravity_bomb"},
 
 
 		{"predicate":{"custom_model_data":12260201},"model":"cua:item/move/shadow_blade"},
