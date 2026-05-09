@@ -1,0 +1,139 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/bowl"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/bone_train"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/spear_train"
+                }
+            }
+        ]
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "translation": [
+                0,
+                5.25,
+                0
+            ],
+            "scale": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        "thirdperson_lefthand": {
+            "translation": [
+                0,
+                5.25,
+                0
+            ],
+            "scale": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "translation": [
+                0,
+                1.75,
+                1.25
+            ],
+            "scale": [
+                0.27,
+                0.27,
+                0.27
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "translation": [
+                0,
+                1.75,
+                1.25
+            ],
+            "scale": [
+                0.27,
+                0.27,
+                0.27
+            ]
+        },
+        "ground": {
+            "translation": [
+                0,
+                10,
+                0
+            ]
+        },
+        "gui": {
+            "rotation": [
+                30,
+                61,
+                0
+            ],
+            "translation": [
+                0,
+                -2.75,
+                0
+            ],
+            "scale": [
+                0.41,
+                0.41,
+                0.41
+            ]
+        },
+        "head": {
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "translation": [
+                0,
+                -31.25,
+                0
+            ],
+            "scale": [
+                1.5,
+                1.5,
+                1.5
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                8.5,
+                0
+            ]
+        }
+    }
+}

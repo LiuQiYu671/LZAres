@@ -1,0 +1,74 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/nether_brick"
+        },
+        "entries": [
+            {"threshold": 1,"model": {"type": "model","model": "item/head/sans"}},
+            {"threshold": 2,"model": {"type": "model","model": "item/head/papyrus"}},
+            {"threshold": 3,"model": {"type": "model","model": "item/head/undyne"}},
+            {"threshold": 4,"model": {"type": "model","model": "item/head/frisk"}},
+            {"threshold": 5,"model": {"type": "model","model": "item/head/flowey"}},
+            {"threshold": 6,"model": {"type": "model","model": "item/head/mettaton"}},
+            {"threshold": 7,"model": {"type": "model","model": "item/head/muffet"}},
+            {"threshold": 8,"model": {"type": "model","model": "item/head/chara"}},
+            {"threshold": 9,"model": {"type": "model","model": "item/head/toriel"}},
+            {"threshold": 10,"model": {"type": "model","model": "item/head/asgore"}},
+            {"threshold": 11,"model": {"type": "model","model": "item/head/asriel"}},
+            {"threshold": 12,"model": {"type": "model","model": "item/head/tobyfox"}},
+            {"threshold": 13,"model": {"type": "model","model": "item/head/alphys"}},
+            {"threshold": 14,"model": {"type": "model","model": "item/head/napstablook"}},
+            {"threshold": 15,"model": {"type": "model","model": "item/head/maddummy"}},
+            {"threshold": 16,"model": {"type": "model","model": "item/head/mettatonex"}},
+            {"threshold": 17,"model": {"type": "model","model": "item/head/sans"}},
+            {"threshold": 18,"model": {"type": "model","model": "item/head/papyrus"}},
+            {"threshold": 19,"model": {"type": "model","model": "item/head/undyne"}},
+            {"threshold": 20,"model": {"type": "model","model": "item/head/frisk"}},
+            {"threshold": 21,"model": {"type": "model","model": "item/head/flowey"}},
+            {"threshold": 22,"model": {"type": "model","model": "item/head/mettaton"}},
+            {"threshold": 23,"model": {"type": "model","model": "item/head/muffet"}},
+            {"threshold": 24,"model": {"type": "model","model": "item/head/default"}},
+            {"threshold": 25,"model": {"type": "model","model": "item/head/toriel"}},
+            {"threshold": 26,"model": {"type": "model","model": "item/head/asgore"}},
+            {"threshold": 27,"model": {"type": "model","model": "item/head/asriel"}},
+            {"threshold": 28,"model": {"type": "model","model": "item/head/tobyfox"}},
+            {"threshold": 29,"model": {"type": "model","model": "item/head/alphys"}},
+            {"threshold": 30,"model": {"type": "model","model": "item/head/napstablook"}},
+            {"threshold": 31,"model": {"type": "model","model": "item/head/maddummy"}},
+            {"threshold": 32,"model": {"type": "model","model": "item/head/mettatonex"}},
+            {"threshold": 103,"model": {"type": "model","model": "item/head/undyne_armor"}},
+
+            {"threshold": 6710100,"model": {"type": "model","model": "cua:item/head/murder_sans"}},
+            {"threshold": 6710200,"model": {"type": "model","model": "cua:item/head/mettatonneo"}},
+            {"threshold": 6710300,"model": {"type": "model","model": "cua:item/head/killer_sans"}},
+            {"threshold": 6710301,"model": {"type": "model","model": "cua:item/head/killer_sans_eye"}},
+            {"threshold": 6710400,"model": {"type": "model","model": "cua:item/head/horror_sans"}},
+            {"threshold": 6710500,"model": {"type": "model","model": "cua:item/head/master_carrot"}},
+
+            {"threshold": 12250000,"model": {"type": "model","model": "cua:item/head/none"}},
+            {"threshold": 12250100,"model": {"type": "model","model": "cua:item/head/lorezy"}},
+            {"threshold": 12250200,"model": {"type": "model","model": "cua:item/head/yxy"}},
+            {"threshold": 12250300,"model": {"type": "model","model": "cua:item/head/lxy"}},
+            {"threshold": 12250301,"model": {"type": "model","model": "cua:item/head/lxy_moon_light"}},
+            {"threshold": 12250500,"model": {"type": "model","model": "cua:item/head/chorus"}},
+            {"threshold": 12250700,"model": {"type": "model","model": "cua:item/head/opponent"}},
+            {"threshold": 12250800,"model": {"type": "model","model": "cua:item/head/cc"}},
+            {"threshold": 12250900,"model": {"type": "model","model": "cua:item/head/loris"}},
+            {"threshold": 12251000,"model": {"type": "model","model": "cua:item/head/phoenix"}},
+            {"threshold": 12251300,"model": {"type": "model","model": "cua:item/head/not_lngs"}},
+            {"threshold": 12251400,"model": {"type": "model","model": "cua:item/head/beanghost"}},
+            {"threshold": 12251401,"model": {"type": "model","model": "cua:item/move/beanghost_powder"}},
+            {"threshold": 12251500,"model": {"type": "model","model": "cua:item/head/galaxy"}},
+
+
+            {"threshold": 12260100,"model": {"type": "model","model": "cua:item/head/lorezy_zero"}},
+            {"threshold": 12260200,"model": {"type": "model","model": "cua:item/head/lorezy_shadow"}},
+            {"threshold": 12260201,"model": {"type": "model","model": "cua:item/head/skin/lorezy_shadow/death_night"}},
+
+            {"threshold": 12269999,"model": {"type": "model","model": "cua:blank"}}
+        ]
+    }
+}

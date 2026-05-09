@@ -3,8 +3,22 @@
         {
             "type": "space",
             "advances": {
-                "\u200c": -2
+                "\u200c": -1
             }
-        }
+        },		
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/hitcross0.png",
+			"ascent": -32768,
+			"height": 1,
+			"chars": ["\u201c"]
+		},		
+        {
+			"type": "bitmap",
+			"file": "space:font/space_nosplit.png",
+			"ascent": -32768,
+			"height": -5,
+			"chars": ["\u202c"]
+		}
     ]
 }

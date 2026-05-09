@@ -1,0 +1,175 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/rotten_flesh"
+        },
+        "entries": [
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/rotten_flesh_6"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "item/rotten_flesh_10"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "item/rotten_flesh_14"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "item/rotten_flesh_18"
+                }
+            },
+            {
+                "threshold": 99,
+                "model": {
+                    "type": "model",
+                    "model": "item/rotten_flesh_prj"
+                }
+            }
+        ]
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                -90,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                -2,
+                -5.75
+            ],
+            "scale": [
+                0.75,
+                0.75,
+                0.75
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                -90,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                -2,
+                -5.75
+            ],
+            "scale": [
+                0.75,
+                0.75,
+                0.75
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                25,
+                12.5,
+                -180
+            ],
+            "translation": [
+                -4.75,
+                3,
+                3.5
+            ],
+            "scale": [
+                0.26,
+                0.26,
+                0.26
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                25,
+                12.5,
+                -180
+            ],
+            "translation": [
+                -4.75,
+                3,
+                3.5
+            ],
+            "scale": [
+                0.26,
+                0.26,
+                0.26
+            ]
+        },
+        "ground": {
+            "translation": [
+                0,
+                7.5,
+                0
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "gui": {
+            "rotation": [
+                61,
+                -40,
+                10
+            ],
+            "translation": [
+                -0.25,
+                4.25,
+                0
+            ],
+            "scale": [
+                0.8,
+                0.8,
+                0.8
+            ]
+        },
+        "head": {
+            "rotation": [
+                -108,
+                0,
+                20
+            ],
+            "translation": [
+                0,
+                -41.5,
+                -16
+            ],
+            "scale": [
+                2,
+                2,
+                2
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                90,
+                50,
+                0
+            ],
+            "translation": [
+                -1,
+                1.5,
+                7.5
+            ]
+        }
+    }
+}

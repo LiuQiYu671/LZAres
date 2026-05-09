@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
     "parent": "item/lobby_button_face",
 	"textures": {
 		"0": "move/setting_pl",

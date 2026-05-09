@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
     "parent": "item/popped_chorus_fruit",
 	"textures": {
 		"0": "move/dummy",

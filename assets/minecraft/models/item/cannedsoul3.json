@@ -1,5 +1,6 @@
 {
 	"parent":"item/cannedsoul1",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "move/orange_heart",
 		"1": "move/can",

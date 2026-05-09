@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "misc/flat5",
 		"particle": "misc/flat5"

@@ -1,6 +1,7 @@
 {
    "pack":{
-      "pack_format":34,
-      "description":"FallenRain Arena Resourcepack"
+    "description":"Undertale Arena Resourcepack!",
+    "min_format": [75, 0],
+    "max_format": [100, 0]
    }
 }

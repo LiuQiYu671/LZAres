@@ -36,36 +36,6 @@
 	{"predicate":{"custom_model_data":30},"model":"item/head/napstablook"},
 	{"predicate":{"custom_model_data":31},"model":"item/head/maddummy"},
 	{"predicate":{"custom_model_data":32},"model":"item/head/mettatonex"},
-	{"predicate":{"custom_model_data":103},"model":"item/head/undyne_armor"},
-
-
-	{"predicate":{"custom_model_data":6710100},"model":"cua:item/head/murder_sans"},
-	{"predicate":{"custom_model_data":6710200},"model":"cua:item/head/mettatonneo"},
-	{"predicate":{"custom_model_data":6710300},"model":"cua:item/head/killer_sans"},
-	{"predicate":{"custom_model_data":6710301},"model":"cua:item/head/killer_sans_eye"},
-	{"predicate":{"custom_model_data":6710400},"model":"cua:item/head/horror_sans"},
-	{"predicate":{"custom_model_data":6710500},"model":"cua:item/head/master_carrot"},
-
-	{"predicate":{"custom_model_data":12250000},"model":"cua:item/head/none"},
-	{"predicate":{"custom_model_data":12250100},"model":"cua:item/head/lorezy"},
-	{"predicate":{"custom_model_data":12250200},"model":"cua:item/head/yxy"},
-	{"predicate":{"custom_model_data":12250300},"model":"cua:item/head/lxy"},
-	{"predicate":{"custom_model_data":12250301},"model":"cua:item/head/lxy_moon_light"},
-	{"predicate":{"custom_model_data":12250500},"model":"cua:item/head/chorus"},
-	{"predicate":{"custom_model_data":12250700},"model":"cua:item/head/opponent"},
-	{"predicate":{"custom_model_data":12250800},"model":"cua:item/head/cc"},
-	{"predicate":{"custom_model_data":12250900},"model":"cua:item/head/loris"},
-	{"predicate":{"custom_model_data":12251000},"model":"cua:item/head/phoenix"},
-	{"predicate":{"custom_model_data":12251300},"model":"cua:item/head/not_lngs"},
-	{"predicate":{"custom_model_data":12251400},"model":"cua:item/head/beanghost"},
-	{"predicate":{"custom_model_data":12251401},"model":"cua:item/move/beanghost_powder"},
-	{"predicate":{"custom_model_data":12251500},"model":"cua:item/head/galaxy"},
-
-
-	{"predicate":{"custom_model_data":12260100},"model":"cua:item/head/lorezy_zero"},
-	{"predicate":{"custom_model_data":12260200},"model":"cua:item/head/lorezy_shadow"},
-	{"predicate":{"custom_model_data":12260201},"model":"cua:item/head/skin/lorezy_shadow/death_night"},
-
-	{"predicate":{"custom_model_data":12269999},"model":"cua:blank"}
+	{"predicate":{"custom_model_data":103},"model":"item/head/undyne_armor"}
   ]
 }

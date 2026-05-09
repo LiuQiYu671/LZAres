@@ -1,0 +1,105 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/cod"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/cod1"
+                }
+            }
+        ]
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "translation": [
+                0,
+                3.5,
+                0
+            ],
+            "scale": [
+                0.48,
+                0.48,
+                0.48
+            ]
+        },
+        "thirdperson_lefthand": {
+            "translation": [
+                0,
+                3.5,
+                0
+            ],
+            "scale": [
+                0.48,
+                0.48,
+                0.48
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                47,
+                29
+            ],
+            "translation": [
+                -2.75,
+                5.75,
+                0
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                47,
+                29
+            ],
+            "translation": [
+                -2.75,
+                5.75,
+                0
+            ]
+        },
+        "gui": {
+            "rotation": [
+                35,
+                29,
+                0
+            ],
+            "translation": [
+                0.5,
+                4.5,
+                0
+            ]
+        },
+        "head": {
+            "translation": [
+                0,
+                -32.5,
+                0
+            ],
+            "scale": [
+                1.6,
+                1.6,
+                1.6
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                -90,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                -8
+            ]
+        }
+    }
+}

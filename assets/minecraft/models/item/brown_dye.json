@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"1_0": "move/save",
 		"particle": "move/save"

@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "move/choas_buster",
 		"particle": "move/rainbow"
