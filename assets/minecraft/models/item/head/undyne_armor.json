@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/head/basic",
 	"textures": {
 		"0": "skin/undyne_armor",

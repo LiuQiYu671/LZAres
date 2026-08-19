@@ -1,6 +1,4 @@
 {
-	"format_version": "1.9.0",
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "cua:move/lxy_moon_light",
 		"particle": "cua:move/lxy_moon_light"

@@ -1,0 +1,19 @@
+{
+    "sources": [
+        {
+            "type": "minecraft:paletted_permutations",
+            "palette_key": "minecraft:trims/color_palettes/trim_palette",
+            "permutations": {
+                "mettatonneo": "cua:trims/color_palettes/mettatonneo",
+                "killersans": "cua:trims/color_palettes/killersans",
+                "promise": "cua:trims/color_palettes/promise"
+            },
+            "textures": [
+                "minecraft:trims/items/helmet_trim",
+                "minecraft:trims/items/chestplate_trim",
+                "minecraft:trims/items/leggings_trim",
+                "minecraft:trims/items/boots_trim"
+            ]
+        }
+    ]
+}

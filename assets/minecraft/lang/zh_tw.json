@@ -252,8 +252,8 @@
 	"las.ft.map1": "§e§l建築者:§r",
 	"las.ft.map2": "§e§l推薦遊玩人數:§r",
 	"las.ft.map3": "§e§l當前遊戲模式:§r",
-	"las.map.count": "%d - %d 名玩家",
-	"las.map.counts": "%d 名玩家",
+	"las.map.count": "%s - %s 名玩家",
+	"las.map.counts": "%s 名玩家",
 	"las.map.count2t": "%1$s VS %1$s",
 
 	"las.ft.gr1": "§e§l其他設定:§r",
@@ -454,8 +454,8 @@
 	"las.set.tlrmv": "隊伍數量",
 	"las.set.tladd": "隊伍數量",
 
-	"las.set.tl": "隊伍上限: %d",
-	"las.set.pl": "玩家上限: %d",
+	"las.set.tl": "隊伍上限: %s",
+	"las.set.pl": "玩家上限: %s",
 	"las.set.rt": "隨機分隊",
 	"las.set.bt": "平衡分隊",
 
@@ -872,17 +872,17 @@
 	"acb.wl": "\uF103%s",
 	"acb.ml": "\uF104\uF832%suF812   ",
 
-	"dsc.mxhp": "%d 生命上限",
-	"dsc.mxdt": "%d 決心上限",
-	"dsc.mxmp": "%d 魔法上限",
+	"dsc.mxhp": "%s 生命上限",
+	"dsc.mxdt": "%s 決心上限",
+	"dsc.mxmp": "%s 魔法上限",
 	"dsc.mwmove": "主要武器",
 	"dsc.mpmove": "主要技能",
-	"dsc.mpcost": "%d 魔法消耗",
+	"dsc.mpcost": "%s 魔法消耗",
 	"dsc.chmove": "次要技能",
 	"dsc.cdmove": "次要技能",
-	"dsc.chtime": "%d 充能時間",
+	"dsc.chtime": "%s 充能時間",
 	"dsc.dtmove": "決心技能",
-	"dsc.dtcost": "%d 決心消耗",
+	"dsc.dtcost": "%s 決心消耗",
 	"dsc.passive": "被動技能",
 
 	"sts.infatuated": "魅惑",
@@ -893,7 +893,7 @@
 	"sts.inject": "注入決心！",
 
 	"tl.revive": "復活中！",
-	"tl.revive.sub": "來自於 %d",
+	"tl.revive.sub": "來自於 %s",
 
 	"itm.soul": "你的靈魂",
 	"itm.soul1": "你的生命精華的所在。",
@@ -1978,8 +1978,8 @@
 	"adv.chr.lore": "",
 
 	"adv.chr.play1": "",
-	"adv.chr.lv5": "使用%d達到LV5",
-	"adv.chr.lv20": "使用%d達到LV20",
+	"adv.chr.lv5": "使用%s達到LV5",
+	"adv.chr.lv20": "使用%s達到LV20",
 
 	"adv.chr.alphys.lv5": "博學的蜥蜴",
 	"adv.chr.alphys.lv20": "皇家科學家",

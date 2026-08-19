@@ -1,0 +1,44 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cua:item/chestplate_trims/metatonneo",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "cua:mettatonneo"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cua:item/chestplate_trims/killersans",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "cua:killersans"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_chestplate",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -6265536
+        }
+      ]
+    },
+    "property": "minecraft:trim_material"
+  }
+}

@@ -1,6 +1,5 @@
 {
 	"parent": "item/head/basic",
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "skin/mettaton",
 		"particle": "block/soul_sand"

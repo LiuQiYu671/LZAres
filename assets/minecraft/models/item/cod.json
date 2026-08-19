@@ -1,12 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "move/piranha",
 		"particle": "move/piranha"
 	},
-	"overrides": [
-		{"predicate":{"custom_model_data":1},"model":"item/cod1"}
-	],
 	"elements": [
 		{
 			"from": [4, 0, 2],

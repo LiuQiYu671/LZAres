@@ -1,38 +1,9 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "gb_bone",
 		"1": "gb_eye",
 		"particle": "gb_bone"
 	},
-	"overrides":
-	[
-		{"predicate":{"custom_model_data":1},"model":"item/flat1"},
-		{"predicate":{"custom_model_data":2},"model":"item/flat2"},
-		{"predicate":{"custom_model_data":3},"model":"item/flat3"},
-		{"predicate":{"custom_model_data":4},"model":"item/flat4"},
-		{"predicate":{"custom_model_data":5},"model":"item/flat5"},
-		{"predicate":{"custom_model_data":6},"model":"item/flat6"},
-		{"predicate":{"custom_model_data":7},"model":"item/flat7"},
-		{"predicate":{"custom_model_data":8},"model":"item/flat8"},
-		{"predicate":{"custom_model_data":9},"model":"item/flat9"},
-		{"predicate":{"custom_model_data":10},"model":"item/flat10"},
-		{"predicate":{"custom_model_data":11},"model":"item/layer1"},
-		{"predicate":{"custom_model_data":12},"model":"item/layer2"},
-		{"predicate":{"custom_model_data":13},"model":"item/layer3"},
-		{"predicate":{"custom_model_data":14},"model":"item/layer4"},
-		{"predicate":{"custom_model_data":15},"model":"item/layer5"},
-		{"predicate":{"custom_model_data":16},"model":"item/layer6"},
-		{"predicate":{"custom_model_data":17},"model":"item/layer7"},
-		{"predicate":{"custom_model_data":18},"model":"item/layer8"},
-		{"predicate":{"custom_model_data":19},"model":"item/layer9"},
-		{"predicate":{"custom_model_data":20},"model":"item/layer10"},
-		{"predicate":{"custom_model_data":21},"model":"item/flat11"},
-		{"predicate":{"custom_model_data":24},"model":"item/layer24"},
-		{"predicate":{"custom_model_data":25},"model":"item/layer25"},
-		{"predicate":{"custom_model_data":26},"model":"item/layer26"},
-		{"predicate":{"custom_model_data":27},"model":"item/layer27"}
-	],
 	"elements": [
 		{
 			"from": [3, -1, 6],

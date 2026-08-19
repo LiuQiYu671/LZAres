@@ -1,16 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "ut/tobyfox",
 		"particle": "ut/tobyfox"
 	},
-	"overrides":
-	[
-		{"predicate":{"custom_model_data":1},"model":"item/annoying_dog"},
-		{"predicate":{"custom_model_data":2},"model":"item/annoying_dog_bomb"},
-		{"predicate":{"custom_model_data":3},"model":"item/annoying_dog_bomb_tick"},
-		{"predicate":{"custom_model_data":4},"model":"item/annoying_dog_bomb_fasttick"}
-	],
 	"elements": [
 		{
 			"from": [4, 5, 2],

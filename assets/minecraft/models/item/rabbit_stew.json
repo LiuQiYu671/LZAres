@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
     "parent": "item/lobby_button",
 	"textures": {
 		"0": "move/setting_def",

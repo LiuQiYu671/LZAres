@@ -3,8 +3,8 @@
         {
             "type": "paletted_permutations",
             "textures": [
-                "cua:trims/models/armor/mettatonneo",
-                "cua:trims/models/armor/mettatonneo_leggings"
+                "cua:trims/entity/humanoid/mettatonneo",
+                "cua:trims/entity/humanoid_leggings/mettatonneo"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
@@ -14,12 +14,23 @@
         {
             "type": "paletted_permutations",
             "textures": [
-                "cua:trims/models/armor/killersans",
-                "cua:trims/models/armor/killersans_leggings"
+                "cua:trims/entity/humanoid/killersans",
+                "cua:trims/entity/humanoid_leggings/killersans"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
                 "killersans": "cua:trims/color_palettes/killersans"
+            }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "cua:trims/entity/humanoid/promise",
+                "cua:trims/entity/humanoid_leggings/promise"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "promise": "cua:trims/color_palettes/promise"
             }
         }
     ]

@@ -38,22 +38,6 @@
             "type": "directory",
             "source": "empty",
             "prefix": "empty/"
-        },
-
-        
-        {
-            "type": "paletted_permutations",
-            "textures": [
-              "trims/items/leggings_trim",
-              "trims/items/chestplate_trim",
-              "trims/items/helmet_trim",
-              "trims/items/boots_trim"
-            ],
-            "palette_key": "trims/color_palettes/trim_palette",
-            "permutations": {
-              "mettatonneo": "cua:trims/color_palettes/mettatonneo",
-              "killersans": "cua:trims/color_palettes/killersans"
-            }
         }
     ]
 }

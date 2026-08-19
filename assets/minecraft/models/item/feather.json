@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "move/wing1",
 		"1": "move/wing2",
@@ -213,14 +212,6 @@
 				"up": {"uv": [4, 0, 15, 3], "texture": "#0"},
 				"down": {"uv": [5, 0, 16, 3], "texture": "#0"}
 			}
-		}
-	],
-	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/feather1"
 		}
 	],
 	"display": {

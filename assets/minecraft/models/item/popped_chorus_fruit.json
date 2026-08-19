@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "move/dummy_red",
 		"particle": "move/dummy_red"
@@ -95,14 +94,6 @@
 				"up": {"uv": [11, 0, 16, 6], "rotation": 180, "texture": "#0"},
 				"down": {"uv": [11, 0, 16, 6], "texture": "#0"}
 			}
-		}
-	],
-	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/popped_chorus_fruit_1"
 		}
 	],
 	"display": {

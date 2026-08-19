@@ -1,12 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "move/slash",
 		"particle": "move/slash"
 	},
-	"overrides": [
-		{"predicate":{"custom_model_data":1},"model":"item/nether_wart1"}
-	],
 	"elements": [
 		{
 			"from": [7, -4.5, 6],

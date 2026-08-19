@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/magma_cream",
 	"textures": {
 		"1": "move/fireball_green"

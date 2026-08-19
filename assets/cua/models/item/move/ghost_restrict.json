@@ -5,7 +5,6 @@
 	},
 	"elements": [
 		{
-			"name": "body",
 			"from": [6, 5, 7],
 			"to": [10, 11, 9],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
@@ -19,7 +18,6 @@
 			}
 		},
 		{
-			"name": "r_l",
 			"from": [8, -1, 7],
 			"to": [10, 5, 9],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [9, 5, 8]},
@@ -33,7 +31,6 @@
 			}
 		},
 		{
-			"name": "head",
 			"from": [6, 11, 6],
 			"to": [10, 15, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
@@ -47,7 +44,6 @@
 			}
 		},
 		{
-			"name": "r_a",
 			"from": [10, 5, 7],
 			"to": [12, 11, 9],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [11, 10, 8]},
@@ -61,7 +57,6 @@
 			}
 		},
 		{
-			"name": "l_a",
 			"from": [4, 5, 7],
 			"to": [6, 11, 9],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [5, 10, 8]},
@@ -75,7 +70,6 @@
 			}
 		},
 		{
-			"name": "l_l",
 			"from": [6, -1, 7],
 			"to": [8, 5, 9],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [7, 5, 8]},

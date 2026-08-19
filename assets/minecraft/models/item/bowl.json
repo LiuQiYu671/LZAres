@@ -1,16 +1,10 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/dummy2",
 		"1": "item/dummy",
 		"2": "item/dummy3",
 		"particle": "item/dummy2"
 	},
-	"overrides":
-	[
-		{"predicate":{"custom_model_data":1},"model":"item/bone_train"},
-		{"predicate":{"custom_model_data":2},"model":"item/spear_train"}
-	],
 	"elements": [
 		{
 			"from": [2, -1, 4],

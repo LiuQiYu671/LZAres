@@ -32,11 +32,35 @@
                 "\uFC10\uFC11\uFC12\uFC13\uFC14\uFC15\uFC16\uFC17",
                 "\uFC18\uFC19\uFC1A\uFC1B\uFC1C\uFC1D\uFC1E\uFC1F",
                 "\uFC20\uFC21\uFC22\uFC23\uFC24\uFC25\uFC26\uFC27",
-                "\uFC28\uFC29\uFC2A\uFC2B\uFC2C\uFC2D\uFC2E\uFC2F",
+                "\uFC28\uFC29\uFC2A\uFC2B\uFC2C\uFC2D\uFC2E\uFC2F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hud:effects_cua2.png",
+            "ascent": -43,
+            "height": 21,
+            "chars": [
                 "\uFC30\uFC31\uFC32\uFC33\uFC34\uFC35\uFC36\uFC37",
                 "\uFC38\uFC39\uFC3A\uFC3B\uFC3C\uFC3D\uFC3E\uFC3F",
                 "\uFC40\uFC41\uFC42\uFC43\uFC44\uFC45\uFC46\uFC47",
-                "\uFC48\uFC49\uFC4A\uFC4B\uFC4C\uFC4D\uFC4E\uFC4F"
+                "\uFC48\uFC49\uFC4A\uFC4B\uFC4C\uFC4D\uFC4E\uFC4F",
+                "\uFC50\uFC51\uFC52\uFC53\uFC54\uFC55\uFC56\uFC57",
+                "\uFC58\uFC59\uFC5A\uFC5B\uFC5C\uFC5D\uFC5E\uFC5F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hud:effects_cua3.png",
+            "ascent": -43,
+            "height": 21,
+            "chars": [
+                "\uFC60\uFC61\uFC62\uFC63\uFC64\uFC65\uFC66\uFC67",
+                "\uFC68\uFC69\uFC6A\uFC6B\uFC6C\uFC6D\uFC6E\uFC6F",
+                "\uFC70\uFC71\uFC72\uFC73\uFC74\uFC75\uFC76\uFC77",
+                "\uFC78\uFC79\uFC7A\uFC7B\uFC7C\uFC7D\uFC7E\uFC7F",
+                "\uFC80\uFC81\uFC82\uFC83\uFC84\uFC85\uFC86\uFC87",
+                "\uFC88\uFC89\uFC8A\uFC8B\uFC8C\uFC8D\uFC8E\uFC8F"
             ]
         },
         {

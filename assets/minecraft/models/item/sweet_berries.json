@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "move/dummy_bullet",
 		"particle": "move/dummy_bullet"

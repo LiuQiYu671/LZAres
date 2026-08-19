@@ -1,178 +1,184 @@
 {
-    "move.lxy_lfs.use":{
+    "move.lxy_lfs.use": {
         "subtitle": "sound.move.use",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:move/lxy_lfs/use"
+                "name": "cua:move/lxy_lfs/use"
             }
         ]
     },
-    "move.not_lngs.active":{
+    "move.from_void.active": {
         "subtitle": "sound.counter.active",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:move/not_lngs/active"
+                "name": "cua:move/from_void/use"
             }
         ]
     },
-    "move.not_lngs.trigger":{
+    "move.from_void.inactive": {
+        "subtitle": "sound.counter.inactive",
+        "sounds": [
+            {
+                "name": "cua:move/from_void/use"
+            }
+        ]
+    },
+    "move.from_void.trigger": {
         "subtitle": "sound.counter.trigger",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:move/not_lngs/trigger"
+                "name": "cua:move/from_void/trigger"
             }
         ]
     },
-    
-    
-    
-    
-    "entity.salt.ambient":{
-        "replace":true,
-        "subtitle": "entity.salt.ambient",
-        "sounds":[
+    "move.sabotage.use": {
+        "subtitle": "sound.sabotage.use",
+        "sounds": [
             {
-                "name":"cua:salt/meow1",
-                "weight":6
+                "name": "cua:move/sabotage/use"
+            }
+        ]
+    },
+    "entity.salt.ambient": {
+        "subtitle": "entity.salt.ambient",
+        "sounds": [
+            {
+                "name": "cua:salt/meow1",
+                "weight": 6
             },
             {
-                "name":"cua:salt/meow2",
-                "weight":4
+                "name": "cua:salt/meow2",
+                "weight": 4
             }
         ]
     },
-    "music_disc.undertale_ost.asgore":{
+    "music_disc.undertale_ost.asgore": {
         "subtitle": "music_disc.undertale_ost.asgore",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/asgore",
-                "stream":true
+                "name": "cua:disc/asgore",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.battle_against_a_true_hero":{
+    "music_disc.undertale_ost.battle_against_a_true_hero": {
         "subtitle": "music_disc.undertale_ost.battle_against_a_true_hero",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/battle_against_a_true_hero",
-                "stream":true
+                "name": "cua:disc/battle_against_a_true_hero",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.bonetrousle":{
+    "music_disc.undertale_ost.bonetrousle": {
         "subtitle": "music_disc.undertale_ost.bonetrousle",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/bonetrousle",
-                "stream":true
+                "name": "cua:disc/bonetrousle",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.death_by_glamour":{
+    "music_disc.undertale_ost.death_by_glamour": {
         "subtitle": "music_disc.undertale_ost.death_by_glamour",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/death_by_glamour",
-                "stream":true
+                "name": "cua:disc/death_by_glamour",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.default":{
+    "music_disc.undertale_ost.default": {
         "subtitle": "music_disc.undertale_ost.default",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/default"
+                "name": "cua:disc/default"
             }
         ]
     },
-    "music_disc.undertale_ost.dummy":{
+    "music_disc.undertale_ost.dummy": {
         "subtitle": "music_disc.undertale_ost.dummy",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/dummy",
-                "stream":true
+                "name": "cua:disc/dummy",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.heartache":{
+    "music_disc.undertale_ost.heartache": {
         "subtitle": "music_disc.undertale_ost.heartache",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/heartache",
-                "stream":true
+                "name": "cua:disc/heartache",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.here_we_are":{
+    "music_disc.undertale_ost.here_we_are": {
         "subtitle": "music_disc.undertale_ost.here_we_are",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/here_we_are",
-                "stream":true
+                "name": "cua:disc/here_we_are",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.hopes_and_dreams":{
+    "music_disc.undertale_ost.hopes_and_dreams": {
         "subtitle": "music_disc.undertale_ost.hopes_and_dreams",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/hopes_and_dreams",
-                "stream":true
+                "name": "cua:disc/hopes_and_dreams",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.megalovania":{
+    "music_disc.undertale_ost.megalovania": {
         "subtitle": "music_disc.undertale_ost.megalovania",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/megalovania",
-                "stream":true
+                "name": "cua:disc/megalovania",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.power_of_neo":{
+    "music_disc.undertale_ost.power_of_neo": {
         "subtitle": "music_disc.undertale_ost.power_of_neo",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/power_of_neo",
-                "stream":true
+                "name": "cua:disc/power_of_neo",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.spider_dance":{
+    "music_disc.undertale_ost.spider_dance": {
         "subtitle": "music_disc.undertale_ost.spider_dance",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/spider_dance",
-                "stream":true
+                "name": "cua:disc/spider_dance",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.undertale":{
+    "music_disc.undertale_ost.undertale": {
         "subtitle": "music_disc.undertale_ost.undertale",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/undertale",
-                "stream":true
+                "name": "cua:disc/undertale",
+                "stream": true
             }
         ]
     },
-    "music_disc.undertale_ost.your_best_nightmare":{
+    "music_disc.undertale_ost.your_best_nightmare": {
         "subtitle": "music_disc.undertale_ost.your_best_nightmare",
-        "sounds":[
+        "sounds": [
             {
-                "name":"cua:disc/your_best_nightmare",
-                "stream":true
+                "name": "cua:disc/your_best_nightmare",
+                "stream": true
             }
         ]
     },
-
-
-
-
-
-    "cua:empty":{
-        "sounds":[
+    "cua:empty": {
+        "sounds": [
             "minecraft:intentionally_empty"
         ]
     }

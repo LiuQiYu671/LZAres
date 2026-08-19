@@ -1,16 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "move/syringe",
 		"particle": "move/syringe"
 	},
-	"overrides": [
-		{"predicate":{"custom_model_data":12},"model":"item/rotten_flesh_6"},
-		{"predicate":{"custom_model_data":24},"model":"item/rotten_flesh_10"},
-		{"predicate":{"custom_model_data":36},"model":"item/rotten_flesh_14"},
-		{"predicate":{"custom_model_data":48},"model":"item/rotten_flesh_18"},
-		{"predicate":{"custom_model_data":99},"model":"item/rotten_flesh_prj"}
-	],
 	"elements": [
 		{
 			"from": [6.5, -1.5, 4],

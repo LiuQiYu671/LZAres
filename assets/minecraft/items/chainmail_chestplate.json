@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cua:item/chestplate_trims/promise"
+        },
+        "when": "cua:promise"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/chainmail_chestplate"
+    },
+    "property": "minecraft:trim_material"
+  }
+}
