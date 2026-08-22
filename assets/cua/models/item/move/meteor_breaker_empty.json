@@ -1,6 +1,4 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "cua:move/meteor_breaker",
@@ -408,6 +406,9 @@
 		"firstperson_righthand": {
 			"rotation": [0, 0, -22.5],
 			"translation": [0, 3, -3]
+		},
+		"ground": {
+			"rotation": [0, 0, -90]
 		},
 		"gui": {
 			"rotation": [24, 135, 0],

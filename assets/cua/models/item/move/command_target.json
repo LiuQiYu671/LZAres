@@ -428,6 +428,9 @@
 			"rotation": [0, -180, 0],
 			"translation": [2, 8, 0]
 		},
+		"ground": {
+			"translation": [-1.5, 4, 0]
+		},
 		"gui": {
 			"rotation": [0, -180, 0],
 			"translation": [2, 5, 0],
@@ -438,54 +441,63 @@
 		{
 			"name": "a",
 			"origin": [7, 0, 7],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2, 3]
 		},
 		{
 			"name": "b",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [4, 5, 6, 7]
 		},
 		{
 			"name": "e",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [8, 9, 10]
 		},
 		{
 			"name": "i",
 			"origin": [7, 0, 7],
+			"scope": 0,
 			"color": 0,
 			"children": [11, 12]
 		},
 		{
 			"name": "l",
 			"origin": [7, 0, 7],
+			"scope": 0,
 			"color": 0,
 			"children": [13, 14, 15]
 		},
 		{
 			"name": "n",
 			"origin": [7, 0, 7],
+			"scope": 0,
 			"color": 0,
 			"children": [16, 17, 18, 19, 20]
 		},
 		{
 			"name": "s",
 			"origin": [7, 0, 7],
+			"scope": 0,
 			"color": 0,
 			"children": [21, 22]
 		},
 		{
 			"name": "t",
 			"origin": [7, 0, 7],
+			"scope": 0,
 			"color": 0,
 			"children": [23, 24, 25]
 		},
 		{
 			"name": "z",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [26, 27, 28, 29, 30]
 		}

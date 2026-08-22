@@ -114,7 +114,7 @@
 			"translation": [4.5, 5, 2]
 		},
 		"ground": {
-			"translation": [0, 5.75, 0]
+			"translation": [0, 7.5, 0]
 		},
 		"gui": {
 			"rotation": [45, 50, 0],

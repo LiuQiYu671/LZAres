@@ -104,18 +104,13 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"ground": {
-			"rotation": [0, 0, 90],
-			"translation": [2.75, -1.75, 1],
-			"scale": [0.6, 0.7, 0.7]
+			"rotation": [90, 0, 0],
+			"translation": [-0.25, 0, 0.25],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {
 			"rotation": [-180, 0, 135],
 			"scale": [0.5, 0.5, 0.5]
-		},
-		"head": {
-			"rotation": [0, 110, -180],
-			"translation": [0, 11.75, 0],
-			"scale": [0.9, 0.9, 0.7]
 		},
 		"fixed": {
 			"rotation": [-59, -35, -180],
@@ -130,6 +125,7 @@
 		{
 			"name": "group",
 			"origin": [5, -7, 3],
+			"scope": 0,
 			"color": 0,
 			"children": [4, 5]
 		}
