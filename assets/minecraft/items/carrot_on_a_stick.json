@@ -219,7 +219,7 @@
             {"threshold": 12251007,"model": {"type": "model","model": "cua:item/move/pistol_phoenix_aim_empty"}},
             {"threshold": 12251101,"model": {"type": "model","model": "cua:item/move/meteor_breaker_empty"}},
             {"threshold": 12251102,"model": {"type": "model","model": "cua:item/move/sabotage"}},
-            {"threshold": 12251103,"model": {"type": "model","model": "cua:item/move/blood_to_blood"}},
+            {"threshold": 12251103,"model": {"type": "model","model": "cua:item/move/blood_for_blood"}},
             {"threshold": 12251104,"model": {"type": "model","model": "cua:item/move/meteor_breaker_empty"}},
             {"threshold": 12251301,"model": {"type": "model","model": "cua:item/move/interference_device"}},
             {"threshold": 12251302,"model": {"type": "model","model": "cua:item/move/quick_wall"}},
